@@ -14,7 +14,7 @@
 - Developing [SphereStats](https://pypi.org/project/SphereStats/) Python package
 - Machine learning for geospatial applications
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 🌐 GIS & Remote Sensing
 
