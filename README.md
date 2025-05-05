@@ -1,5 +1,5 @@
 
-# Ghulam Abbas Zafari
+# 🌍 Geospatial Pythonista | Remote Sensing Explorer
 **MSc Geoinformatics @ Politecnico di Milano**  
 📍 Milan, Italy | 📧 ghulamabbas.zafari@gmail.com
 
