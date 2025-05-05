@@ -3,7 +3,7 @@
 **Geospatial Engineer | Python Developer | Remote Sensing Specialist**
 
 📍 Bresso, Italy | 📧 [Email](mailto:ghulamabbas.zafari@gmail.com) | 📞 +39 379 138 7487  
-🔗 [LinkedIn](#) | [PyPI](https://pypi.org/user/zafariabbas68/) | [Google Scholar](#)
+🔗 [LinkedIn](#) | [PyPI](https://pypi.org/user/zafariabbas68/)
 
 ---
 
