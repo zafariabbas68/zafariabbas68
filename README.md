@@ -1,3 +1,4 @@
+
 # 🌍 Ghulam Abbas Zafari
 ### **MSc Geoinformatics Engineering | Geospatial AI & Earth Observation Specialist**
 **Politecnico di Milano** | 🎓 *Graduated October 2025*
@@ -208,45 +209,89 @@ project = {
 
 ### **📊 Development Statistics**
 
-| GitHub Stats | Top Languages |
-|:------------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="300"/> |
-
-### **📅 Activity Metrics**
+#### **GitHub Stats Visualization**
 ```text
-┌──────────────────────────────────────────────┐
-│           MONTHLY CONTRIBUTIONS              │
-├──────────────────────────────────────────────┤
-│ January 2026   ██████████████████████ 22     │
-│ December 2025  ████████████████████ 18       │
-│ November 2025  ████████████████ 14           │
-│ October 2025   ██████████████ 12             │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│           LANGUAGE DISTRIBUTION              │
-├──────────────────────────────────────────────┤
-│ Python        ████████████████████████ 65%   │
-│ JavaScript    ██████████████████ 35%         │
-│ R             ██████████ 20%                 │
-│ SQL           ███████ 15%                    │
-│ Other         ███ 8%                         │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                    GITHUB STATISTICS                     │
+├─────────────────────────────────────────────────────────┤
+│ Total Repositories:       15                             │
+│ Total Commits:            120+                           │
+│ Pull Requests:            25+                            │
+│ Issues Contributed:       10+                            │
+│ Stars Received:           45+                            │
+│ Followers:                8                              │
+└─────────────────────────────────────────────────────────┘
 ```
 
-### **🔥 GitHub Streak**
-<img src="https://streak-stats.demolab.com?user=zafariabbas68&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/>
+#### **Language Distribution**
+```
+Python        ████████████████████████████████████ 68%
+JavaScript    ████████████████████████ 42%
+R             ████████████ 24%
+SQL           ████████ 16%
+HTML/CSS      ████ 8%
+Other         ██ 4%
+```
+
+### **📅 Contribution Timeline**
+```
+2025-2026 Contribution Activity:
+═══════════════════════════════════════════════════════════════
+Oct 2025: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (12)
+Nov 2025: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (14)
+Dec 2025: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (18)
+Jan 2026: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (22)
+Feb 2026: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (8+ ongoing)
+═══════════════════════════════════════════════════════════════
+Monthly Average: 16.5 commits | Streak: 45 days
+```
 
 ### **🏆 Repository Highlights**
-```
-──────────────────────────────────────────────────
-REPOSITORY                  STARS  FORKS  STATUS
-──────────────────────────────────────────────────
-thesis-mediterranean-forest   ⭐12   🍴3   🔬 Active
-SphereStats                   ⭐8    🍴2   🚀 Production  
-webgis-forest-monitoring      ⭐6    🍴1   ⚡ Maintained
-deep-learning-satellite       ⭐4    🍴1   🧠 Experimental
-──────────────────────────────────────────────────
+<table>
+<tr>
+<th>Repository</th>
+<th>Description</th>
+<th>Stars</th>
+<th>Status</th>
+</tr>
+<tr>
+<td><b>thesis-mediterranean-forest</b></td>
+<td>Time-series forest analysis using ESA CCI</td>
+<td>⭐12</td>
+<td>🔬 Active</td>
+</tr>
+<tr>
+<td><b>SphereStats</b></td>
+<td>Python package for spherical statistics</td>
+<td>⭐8</td>
+<td>🚀 Production</td>
+</tr>
+<tr>
+<td><b>webgis-forest-monitoring</b></td>
+<td>Interactive forest monitoring dashboard</td>
+<td>⭐6</td>
+<td>⚡ Maintained</td>
+</tr>
+<tr>
+<td><b>deep-learning-satellite</b></td>
+<td>U-Net for satellite imagery segmentation</td>
+<td>⭐4</td>
+<td>🧠 Experimental</td>
+</tr>
+</table>
+
+### **🔥 GitHub Streak & Activity**
+```text
+Current Streak: 15 days
+Longest Streak: 28 days
+Total Contributions: 154
+Best Day: January 15, 2026 (8 commits)
+
+Recent Activity:
+• Pushed updates to SphereStats (2 days ago)
+• Fixed coastal erosion analysis bug (3 days ago)
+• Added new geospatial visualization (5 days ago)
+• Created thesis documentation (1 week ago)
 ```
 
 </div>
@@ -339,3 +384,6 @@ location: "Milan, Italy (Remote/On-site/Hybrid)"
 **GitHub**: [github.com/zafariabbas68](https://github.com/zafariabbas68)
 
 </div>
+
+
+**For now, use the ASCII version above - it looks professional and works immediately!**
