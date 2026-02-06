@@ -197,7 +197,7 @@ project = {
 ### **🚀 Development & Deployment**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) alt="FastAPI">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet">
@@ -210,15 +210,16 @@ project = {
 
 <div align="center">
 
-### **Development Activity & Statistics**
+### **📊 Development Statistics**
 
-<a href="https://github.com/zafariabbas68">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started)](https://github.com/zafariabbas68)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css)](https://github.com/zafariabbas68)
 
-### **Contribution Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=true&area=true&custom_title=Geospatial%20Development%20Timeline)
+### **📅 Contribution Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Activity)
+
+### **🏆 GitHub Trophies**
+[![trophy](https://github-profile-trophy.vercel.app/?username=zafariabbas68&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
