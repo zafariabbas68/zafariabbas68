@@ -1,10 +1,84 @@
+I've updated your GitHub README with your personal links, improved the design with animated geospatial SVGs, and integrated relevant details from your portfolio.
+
+Here is the enhanced version, which is ready for you to copy into your GitHub `README.md` file:
+
+```markdown
 # 🌍 Geospatial Data Scientist | MSc Geoinformatics Engineering
 
 **Politecnico di Milano**  
 *Synthesizing Earth Observation Intelligence with Scalable AI Systems*
 
-📍 Milan, Italy | 📧 [ghulamabbas.zafari@gmail.com](mailto:ghulamabbas.zafari@gmail.com) | 🔗 [https://ghulam-zafari-website.onrender.com](https://ghulam-zafari-website.onrender.com)  
-📄 [Portfolio](https://ghulam-zafari-website.onrender.com) · 📊 [GitHub](https://github.com/zafariabbas68) · 🏢 [LinkedIn](https://linkedin.com/in/ghulam-abbas-zafari)
+📍 Milan, Italy | 📧 [ghulamabbas.zafari@gmail.com](mailto:ghulamabbas.zafari@gmail.com) | 🔗 [Portfolio](https://personal-website-gaz.onrender.com)  
+📄 [Portfolio](https://personal-website-gaz.onrender.com) · 📊 [GitHub](https://github.com/zafariabbas68) · 🏢 [LinkedIn](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/) · 💬 [WhatsApp](https://wa.me/393791387487)
+
+<div align="center">
+
+### **🛰️ Real-time Satellite Pass Over Milan**
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="earthGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a237e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a148c;stop-opacity:1" />
+    </linearGradient>
+    <!-- Pulse animation for data transmission -->
+    <radialGradient id="pulseGrad" cx="30%" cy="30%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Earth -->
+  <circle cx="200" cy="60" r="45" fill="url(#earthGradient)" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.95;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Continent Highlights (Simplified Europe/Italy) -->
+  <path d="M170,50 Q185,35 200,40 T230,50" fill="none" stroke="#81c784" stroke-width="2" opacity="0.7"/>
+  <circle cx="185" cy="55" r="3" fill="#4caf50">
+    <animate attributeName="r" values="3;4;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="190" y="50" fill="#e8f5e9" font-size="8" font-weight="bold">Milan</text>
+  
+  <!-- Satellite Orbit -->
+  <ellipse cx="200" cy="60" rx="100" ry="40" fill="none" stroke="#64b5f6" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.6">
+    <animate attributeName="stroke-dashoffset" values="0;16" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <!-- Animated Satellite -->
+  <g id="satellite">
+    <rect x="95" y="57" width="18" height="8" fill="#ff9800" rx="3">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 60" to="360 200 60" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <!-- Solar Panels -->
+    <rect x="113" y="52" width="5" height="18" fill="#ffb74d" rx="1">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 60" to="360 200 60" dur="12s" repeatCount="indefinite"/>
+    </rect>
+    <!-- Antenna -->
+    <line x1="95" y1="61" x2="88" y2="61" stroke="#ffcc80" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0 200 60" to="360 200 60" dur="12s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  
+  <!-- Data Transmission Pulses -->
+  <circle cx="285" cy="60" r="8" fill="url(#pulseGrad)">
+    <animate attributeName="r" values="8;15;8" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="285" cy="60" r="3" fill="#00bcd4"/>
+  
+  <!-- Signal Lines to Ground Station -->
+  <path d="M285,60 Q310,80 280,100" stroke="#00bcd4" stroke-width="1.5" fill="none" opacity="0.7" stroke-dasharray="4,2">
+    <animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Ground Station -->
+  <rect x="265" y="95" width="30" height="15" fill="#5d4037" rx="2"/>
+  <rect x="272" y="88" width="16" height="7" fill="#8d6e63" rx="1"/>
+  <circle cx="280" y="102" r="2" fill="#4caf50">
+    <animate attributeName="fill" values="#4caf50;#a5d6a7;#4caf50" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+</div>
 
 ```python
 #!/usr/bin/env python3
@@ -12,534 +86,446 @@
 2026 Geospatial Intelligence Engine | EO + AI + Cloud Native
 """
 from dataclasses import dataclass
-from typing import List, Dict, Optional
-import torch
-import xarray as xr
+from typing import List, Dict
 
 @dataclass
 class GeoAIResearch:
-    """Modular research profile for 2026 geospatial AI landscape"""
+    """Modular research profile integrating portfolio achievements"""
     
     institution: str = "Politecnico di Milano"
     degree: str = "MSc Geoinformatics Engineering"
-    specialization: str = "AI-driven Earth Observation Analytics"
+    graduation: str = "Completed October 2025 | Specialized in Remote Sensing & Spatial Data Science"
     
-    core_pillars: tuple = (
-        "Multi-modal Geospatial Foundation Models",
-        "Spatio-Temporal Deep Learning Architectures", 
-        "Scalable Cloud-Native Geoprocessing",
-        "Quantum-Inspired Spatial Analytics"
+    # Integrated from portfolio
+    experience_years: int = 5
+    projects_delivered: int = 20
+    thesis_focus: str = "Land Cover Dynamics in Italy: A Multi-Temporal Analysis (1985-2032)"
+    
+    core_expertise: tuple = (
+        "Geospatial AI & Machine Learning",
+        "Multi-Sensor Remote Sensing", 
+        "Cloud-Native Geoprocessing",
+        "WebGIS & Spatial Development"
     )
     
-    current_focus: Dict[str, str] = None
-    
     def __post_init__(self):
-        self.current_focus = {
-            "thesis": "Transformer-based fusion of Sentinel-1/2 time series for Mediterranean forest resilience monitoring",
-            "oss_project": "SphereStats 2.0: Geometric deep learning for spherical data",
-            "research": "Self-supervised pretraining on global satellite imagery corpora",
-            "engineering": "Building MLOps pipelines for planetary-scale geospatial inference"
+        self.current_projects = {
+            "thesis_completed": "National-scale land abandonment analysis using ESA CCI & GLC_FCS30D",
+            "coastal_monitoring": "Multi-temporal shoreline change detection with Sentinel-2",
+            "package_dev": "Developing & maintaining SphereStats Python package on PyPI",
+            "geospatial_ai": "Deep Learning for Land Use Land Cover classification"
         }
     
     @property
-    def tech_signature(self) -> List[str]:
-        return ["PyTorch Geometric", "EOdal", "TensorFlow Extended", "Kubeflow", "Pangeo"]
+    def portfolio_highlights(self) -> List[str]:
+        return ["Earth Observation Analytics", "Coastal Erosion Monitoring", "3D Spatial Algorithms", "Interactive Dashboards"]
 
 profile = GeoAIResearch()
-print(f"🛰️ {profile.specialization} | Building the geospatial intelligence layer for planetary understanding")
+print(f"🛰️ {profile.specialization} | Transforming spatial data into intelligent solutions")
 ```
+
+## 🌟 **Professional Journey & Expertise**
 
 <div align="center">
 
-### **🛰️ Real-time Satellite Visualization**
-```html
-<!-- Animated Satellite Pass Over Milan -->
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+### **📊 Measurable Impact**
+```python
+# Quantified achievements from portfolio
+achievements = {
+    "experience": "5+ Years in Geospatial Analysis & Development",
+    "projects": "20+ Projects Delivered from concept to implementation",
+    "satisfaction": "100% Client Satisfaction across all completed work",
+    "reach": "Global experience serving 3 Continents",
+    "thesis_scale": "37 Years Analyzed with 2,440 transitions mapped"
+}
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### **🛠️ Core Expertise**
+```yaml
+Geospatial Intelligence:
+  - Advanced spatial analytics & predictive modeling
+  - Location intelligence with machine learning
+  
+Remote Sensing & AI:
+  - Multispectral analysis & drone imagery
+  - Environmental monitoring with deep learning
+  
+Spatial Development:
+  - Custom WebGIS applications
+  - Real-time geospatial dashboards
+  - Automated spatial workflows
+```
+
+</td>
+<td width="50%">
+
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Expertise Visualization -->
   <defs>
-    <linearGradient id="earthGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1a237e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4a148c;stop-opacity:1" />
+    <linearGradient id="expertiseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2196f3"/>
+      <stop offset="50%" stop-color="#4caf50"/>
+      <stop offset="100%" stop-color="#ff9800"/>
     </linearGradient>
   </defs>
   
-  <!-- Earth -->
-  <circle cx="200" cy="50" r="40" fill="url(#earthGradient)" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;0.9;0.8" dur="4s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Skills Bars -->
+  <text x="10" y="20" fill="#333" font-size="10" font-weight="bold">Expertise Level</text>
   
-  <!-- Satellite Orbit -->
-  <ellipse cx="200" cy="50" rx="80" ry="30" fill="none" stroke="#64b5f6" stroke-width="1" stroke-dasharray="5,5" opacity="0.5"/>
+  <!-- Remote Sensing -->
+  <text x="10" y="40" fill="#555" font-size="9">Remote Sensing</text>
+  <rect x="100" y="33" width="120" height="10" fill="#e0e0e0" rx="2"/>
+  <rect x="100" y="33" width="110" height="10" fill="#2196f3" rx="2">
+    <animate attributeName="width" values="0;110" dur="1.5s" fill="freeze"/>
+  </rect>
   
-  <!-- Animated Satellite -->
-  <g transform="translate(120,50)">
-    <rect x="0" y="-3" width="15" height="6" fill="#ff9800" rx="2">
-      <animateTransform attributeName="transform" type="rotate" from="0 200 50" to="360 200 50" dur="8s" repeatCount="indefinite"/>
+  <!-- Geospatial AI -->
+  <text x="10" y="60" fill="#555" font-size="9">Geospatial AI</text>
+  <rect x="100" y="53" width="120" height="10" fill="#e0e0e0" rx="2"/>
+  <rect x="100" y="53" width="105" height="10" fill="#4caf50" rx="2">
+    <animate attributeName="width" values="0;105" dur="1.5s" begin="0.3s" fill="freeze"/>
+  </rect>
+  
+  <!-- WebGIS Development -->
+  <text x="10" y="80" fill="#555" font-size="9">WebGIS Dev</text>
+  <rect x="100" y="73" width="120" height="10" fill="#e0e0e0" rx="2"/>
+  <rect x="100" y="73" width="100" height="10" fill="#ff9800" rx="2">
+    <animate attributeName="width" values="0;100" dur="1.5s" begin="0.6s" fill="freeze"/>
+  </rect>
+  
+  <!-- Cloud Geoprocessing -->
+  <text x="10" y="100" fill="#555" font-size="9">Cloud Geo</text>
+  <rect x="100" y="93" width="120" height="10" fill="#e0e0e0" rx="2"/>
+  <rect x="100" y="93" width="95" height="10" fill="#9c27b0" rx="2">
+    <animate attributeName="width" values="0;95" dur="1.5s" begin="0.9s" fill="freeze"/>
+  </rect>
+</svg>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🚀 **Featured Projects & Research**
+
+### **🎓 Master's Thesis (Completed Oct 2025)**
+**"Land Cover Dynamics in Italy: A Multi-Temporal Analysis (1985-2032)"**  
+*Politecnico di Milano – Successfully defended on October 23, 2025*
+
+<div align="center">
+<svg width="350" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Thesis Timeline Visualization -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4caf50"/>
+    </marker>
+  </defs>
+  
+  <!-- Timeline -->
+  <line x1="30" y1="50" x2="320" y2="50" stroke="#78909c" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Timeline Points -->
+  <g>
+    <!-- 1985 -->
+    <circle cx="50" cy="50" r="6" fill="#2196f3"/>
+    <text x="50" y="75" text-anchor="middle" fill="#555" font-size="8">1985</text>
+    <text x="50" y="90" text-anchor="middle" fill="#2196f3" font-size="7" font-weight="bold">Start</text>
+    
+    <!-- 2000 -->
+    <circle cx="130" cy="50" r="6" fill="#4caf50">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <text x="130" y="75" text-anchor="middle" fill="#555" font-size="8">2000</text>
+    
+    <!-- 2015 -->
+    <circle cx="210" cy="50" r="6" fill="#ff9800">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    <text x="210" y="75" text-anchor="middle" fill="#555" font-size="8">2015</text>
+    
+    <!-- 2022 -->
+    <circle cx="260" cy="50" r="6" fill="#9c27b0">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="3s"/>
+    </circle>
+    <text x="260" y="75" text-anchor="middle" fill="#555" font-size="8">2022</text>
+    
+    <!-- 2032 -->
+    <circle cx="320" cy="50" r="8" fill="#f44336"/>
+    <text x="320" y="75" text-anchor="middle" fill="#555" font-size="8">2032</text>
+    <text x="320" y="90" text-anchor="middle" fill="#f44336" font-size="7" font-weight="bold">Projection</text>
+  </g>
+  
+  <!-- Change Indicator -->
+  <text x="185" y="30" text-anchor="middle" fill="#d32f2f" font-size="9" font-weight="bold">2,440 Transitions Mapped</text>
+  <text x="185" y="40" text-anchor="middle" fill="#d32f2f" font-size="8">6.25× More Change Detected</text>
+</svg>
+</div>
+
+**Tech Stack**: `GRASS GIS` `Python Scripting` `QGIS Processing` `Markov Chain Models` `Remote Sensing` `Statistical Analysis`
+
+### **🛰️ Portfolio Highlight: Coastal Erosion Monitoring**
+*Advanced multi-temporal analysis of shoreline changes using Sentinel-2 imagery*
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```python
+# Portfolio Project Metrics
+coastal_project = {
+    "visualizations": 10,
+    "analysis_types": 4,
+    "satellite_sources": 5,
+    "professional_grade": "100%",
+    "technologies": [
+        "Sentinel-2 NDWI",
+        "Change Detection",
+        "Google Earth Engine",
+        "Python"
+    ]
+}
+```
+
+</td>
+<td width="60%">
+
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Coastal Analysis Visualization -->
+  <defs>
+    <linearGradient id="coastGrad" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#64b5f6"/>
+      <stop offset="50%" stop-color="#42a5f5"/>
+      <stop offset="100%" stop-color="#1e88e5"/>
+    </linearGradient>
+    <linearGradient id="sandGrad" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffd54f"/>
+      <stop offset="100%" stop-color="#ffb300"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Sea -->
+  <rect x="0" y="0" width="250" height="70" fill="url(#coastGrad)">
+    <animate attributeName="y" values="0;2;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Shoreline with erosion/change indicators -->
+  <path d="M0,70 Q50,65 100,75 T200,70 T250,65" fill="url(#sandGrad)" stroke="#a1887f" stroke-width="1"/>
+  
+  <!-- Erosion Indicators -->
+  <g>
+    <rect x="60" y="75" width="15" height="8" fill="#d32f2f" opacity="0.7" rx="2">
+      <animate attributeName="height" values="8;12;8" dur="2s" repeatCount="indefinite"/>
     </rect>
-    <!-- Solar Panels -->
-    <rect x="15" y="-8" width="4" height="16" fill="#ffb74d" rx="1">
-      <animateTransform attributeName="transform" type="rotate" from="0 200 50" to="360 200 50" dur="8s" repeatCount="indefinite"/>
+    <rect x="120" y="75" width="15" height="10" fill="#d32f2f" opacity="0.7" rx="2">
+      <animate attributeName="height" values="10;15;10" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    </rect>
+    <rect x="180" y="75" width="15" height="7" fill="#d32f2f" opacity="0.7" rx="2">
+      <animate attributeName="height" values="7;11;7" dur="2.2s" repeatCount="indefinite" begin="1s"/>
     </rect>
   </g>
+  
+  <!-- Sentinel Satellite -->
+  <rect x="200" y="20" width="25" height="8" fill="#ff9800" rx="2">
+    <animate attributeName="x" values="200;210;200" dur="4s" repeatCount="indefinite"/>
+  </rect>
   
   <!-- Data Transmission -->
-  <circle cx="280" cy="50" r="2" fill="#00e5ff">
-    <animate attributeName="r" values="2;5;2" dur="1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-```
-
-</div>
-
-## 🌟 **Remote Sensing & Earth Observation Expertise**
-
-<div align="center">
-
-### **Multi-Sensor Data Fusion Workflow**
-```
-[📡 SAR Acquisition] → [🛰️ Optical Synergy] → [🔥 Thermal Analysis] → [🌊 Hyperspectral Processing]
-       ↓                     ↓                     ↓                     ↓
-[⚡ Phase Coherence]  [🌈 Spectral Indices]  [🌡️ LST Retrieval]   [🧪 Feature Extraction]
-       ↓                     ↓                     ↓                     ↓
-[🌀 Interferometry]   [🌳 Classification]    [💧 Evapotranspiration] [🔬 Anomaly Detection]
-```
-
-### **Satellite Constellation Monitoring**
-```javascript
-// Real-time satellite pass visualization
-const satelliteStatus = {
-  sentinel2: { status: "📡 Acquiring", location: "Mediterranean", nextPass: "15min" },
-  landsat9: { status: "⚡ Processing", location: "Alpine Region", nextPass: "45min" },
-  modis: { status: "🌡️ Thermal Scan", location: "Global", nextPass: "Continuous" },
-  worldview3: { status: "🔄 On-Demand", location: "Taskable", nextPass: "Scheduled" }
-};
-```
-
-</div>
-
-## 🚀 **Featured Projects (2026 Edition)**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### **🛰️ Active Satellite Missions**
-```python
-class SatelliteMission:
-    def __init__(self):
-        self.missions = {
-            "Sentinel": ["1 (SAR)", "2 (Optical)", "3 (Ocean/Land)", "5P (Atmosphere)"],
-            "Landsat": ["8", "9"],
-            "MODIS": ["Terra", "Aqua"],
-            "Commercial": ["PlanetScope", "SkySat", "WorldView"]
-        }
-    
-    def acquisition_pattern(self):
-        return "🌍 Global coverage | ⏱️ Daily revisit | 📊 Multi-temporal analysis"
-    
-mission = SatelliteMission()
-```
-
-</td>
-<td width="50%">
-
-### **📈 Processing Pipeline**
-<svg width="300" height="80" xmlns="http://www.w3.org/2000/svg">
-  <!-- Processing Flow Animation -->
-  <rect x="10" y="30" width="50" height="20" rx="5" fill="#2196f3">
-    <animate attributeName="fill" values="#2196f3;#64b5f6;#2196f3" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <text x="35" y="43" text-anchor="middle" fill="white" font-size="10">Raw</text>
-  
-  <line x1="60" y1="40" x2="80" y2="40" stroke="#ff9800" stroke-width="2">
-    <animate attributeName="stroke-dashoffset" from="0" to="20" dur="1s" repeatCount="indefinite"/>
+  <line x1="212" y1="28" x2="190" y2="60" stroke="#00e5ff" stroke-width="1.5" stroke-dasharray="3,2">
+    <animate attributeName="stroke-dashoffset" values="0;10" dur="1s" repeatCount="indefinite"/>
   </line>
   
-  <rect x="90" y="30" width="50" height="20" rx="5" fill="#4caf50">
-    <animate attributeName="fill" values="#4caf50;#81c784;#4caf50" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-  </rect>
-  <text x="115" y="43" text-anchor="middle" fill="white" font-size="10">Pre-proc</text>
-  
-  <line x1="140" y1="40" x2="160" y2="40" stroke="#ff9800" stroke-width="2">
-    <animate attributeName="stroke-dashoffset" from="0" to="20" dur="1s" repeatCount="indefinite" begin="0.3s"/>
-  </line>
-  
-  <rect x="170" y="30" width="50" height="20" rx="5" fill="#9c27b0">
-    <animate attributeName="fill" values="#9c27b0;#ba68c8;#9c27b0" dur="2s" repeatCount="indefinite" begin="1s"/>
-  </rect>
-  <text x="195" y="43" text-anchor="middle" fill="white" font-size="10">Analysis</text>
-  
-  <line x1="220" y1="40" x2="240" y2="40" stroke="#ff9800" stroke-width="2">
-    <animate attributeName="stroke-dashoffset" from="0" to="20" dur="1s" repeatCount="indefinite" begin="0.6s"/>
-  </line>
+  <!-- Analysis Text -->
+  <text x="125" y="100" text-anchor="middle" fill="#333" font-size="9" font-weight="bold">Multi-Temporal Change Detection</text>
+  <text x="125" y="110" text-anchor="middle" fill="#555" font-size="8">Sentinel-2 • NDWI • Google Earth Engine</text>
 </svg>
 
 </td>
 </tr>
 </table>
-
 </div>
 
-### **Advanced Research Initiatives**
+### **💻 Other Portfolio Projects**
+| Project | Description | Technologies |
+|:--------|:------------|:-----------|
+| **[Milan Green Space Analysis](https://personal-website-gaz.onrender.com)** | Accessibility assessment of parks using network analysis & gravity modeling | `QGIS` `Network Analysis` `Python` |
+| **[3D Spatial Algorithms](https://personal-website-gaz.onrender.com)** | Convex hull algorithms on spherical surfaces with WebGL visualizations | `WebGL` `JavaScript` `3D Visualization` |
+| **[Interactive Dashboard](https://personal-website-gaz.onrender.com)** | Real-time visualization platform for global freedom scores | `React` `D3.js` `Mapbox` `FastAPI` |
 
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:-------|
-| **[🌳 Forest Transformer](https://github.com/zafariabbas68/forest-transformer)** | Vision Transformer for multi-sensor time-series analysis of forest ecosystems | `PyTorch` `Lightning` `HuggingFace` `WandB` `DVC` | 🔬 **Active Research** |
-| **[🌐 SphereStats 2.0](https://pypi.org/project/SphereStats/)** | Next-gen spherical statistics with geometric deep learning extensions | `JAX` `PyTorch` `PyPI` `Poetry` `Ruff` | 🚀 **Production** |
-| **[☁️ GeoMLOps Platform](https://github.com/zafariabbas68/geo-mlops)** | End-to-end MLOps for geospatial AI with Kubernetes orchestration | `Kubeflow` `TFX` `Docker` `GCP/AWS` `FastAPI` | ⚡ **In Development** |
-| **[🪐 Planetary Embeddings](https://github.com/zafariabbas68/planetary-embeddings)** | Self-supervised learning on global Sentinel-2 imagery for foundation models | `PyTorch` `DDP` `Weights & Biases` `xFormers` | 🧠 **Experimental** |
+## 🛠️ **Technical Arsenal**
 
-## 🛠️ **2026 Technical Arsenal**
-
+### **🌐 Earth Observation & Remote Sensing**
 <div align="center">
-
-### **🛰️ Earth Observation Stack**
-<table>
-<tr>
-<td>
-
-```python
-# Multi-spectral Analysis
-bands = {
-    'VISIBLE': ['Coastal', 'Blue', 'Green', 'Red'],
-    'NIR': ['Narrow NIR', 'Water Vapor'],
-    'SWIR': ['Cirrus', 'SWIR-1', 'SWIR-2'],
-    'TIR': ['TIRS-1', 'TIRS-2']
-}
-
-# Spectral Indices
-indices = {
-    'NDVI': '(NIR - Red) / (NIR + Red)',
-    'NDWI': '(Green - NIR) / (Green + NIR)',
-    'NDBI': '(SWIR - NIR) / (SWIR + NIR)',
-    'EVI': '2.5 * (NIR - Red) / (NIR + 6*Red - 7.5*Blue + 1)'
-}
-```
-
-</td>
-<td>
-
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Spectrum Visualization -->
-  <defs>
-    <linearGradient id="spectrum" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3f51b5" />
-      <stop offset="25%" style="stop-color:#4caf50" />
-      <stop offset="50%" style="stop-color:#ffeb3b" />
-      <stop offset="75%" style="stop-color:#ff9800" />
-      <stop offset="100%" style="stop-color:#f44336" />
-    </linearGradient>
-  </defs>
-  <rect x="10" y="40" width="180" height="20" fill="url(#spectrum)" rx="3">
-    <animate attributeName="height" values="20;25;20" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="100" y="35" text-anchor="middle" fill="#666" font-size="10">Electromagnetic Spectrum</text>
-  <!-- Wavelength markers -->
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- EO Platform Ecosystem -->
   <g>
-    <line x1="20" y1="65" x2="20" y2="70" stroke="#666" stroke-width="1"/>
-    <text x="20" y="80" text-anchor="middle" fill="#666" font-size="8">400nm</text>
-    <line x1="100" y1="65" x2="100" y2="70" stroke="#666" stroke-width="1"/>
-    <text x="100" y="80" text-anchor="middle" fill="#666" font-size="8">700nm</text>
-    <line x1="170" y1="65" x2="170" y2="70" stroke="#666" stroke-width="1"/>
-    <text x="170" y="80" text-anchor="middle" fill="#666" font-size="8">1μm</text>
+    <!-- Sentinel Hub -->
+    <circle cx="80" cy="40" r="25" fill="#0d47a1" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="80" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">Sentinel</text>
+    <text x="80" y="52" text-anchor="middle" fill="#bbdefb" font-size="7">ESA</text>
+    
+    <!-- Google Earth Engine -->
+    <circle cx="160" cy="40" r="25" fill="#4285f4" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <text x="160" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">GEE</text>
+    <text x="160" y="52" text-anchor="middle" fill="#c8e6c9" font-size="7">Cloud</text>
+    
+    <!-- SAR Processing -->
+    <circle cx="240" cy="40" r="25" fill="#bf360c" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <text x="240" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">SAR</text>
+    <text x="240" y="52" text-anchor="middle" fill="#ffccbc" font-size="7">InSAR</text>
+    
+    <!-- UAV/Drones -->
+    <circle cx="320" cy="40" r="25" fill="#33691e" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+    <text x="320" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">UAV</text>
+    <text x="320" y="52" text-anchor="middle" fill="#dcedc8" font-size="7">Drones</text>
   </g>
+  
+  <!-- Connecting Data Flow -->
+  <path d="M105,40 Q130,20 155,40" stroke="#4caf50" stroke-width="1.5" fill="none" opacity="0.6" stroke-dasharray="4,2">
+    <animate attributeName="stroke-dashoffset" values="0;10" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M185,40 Q210,20 235,40" stroke="#4caf50" stroke-width="1.5" fill="none" opacity="0.6" stroke-dasharray="4,2">
+    <animate attributeName="stroke-dashoffset" values="0;10" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </path>
+  <path d="M265,40 Q290,20 315,40" stroke="#4caf50" stroke-width="1.5" fill="none" opacity="0.6" stroke-dasharray="4,2">
+    <animate attributeName="stroke-dashoffset" values="0;10" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
+  </path>
 </svg>
-
-</td>
-</tr>
-</table>
-
 </div>
 
-### **EO Processing Pipeline**
+### **⚙️ Processing Pipeline & Data Science**
 <p align="left">
-  <img src="https://img.shields.io/badge/Atmospheric_Correction-TOA%2FSurface%20Reflectance-009688?logo=esa&logoColor=white" alt="Atmospheric Correction">
-  <img src="https://img.shields.io/badge/Radiometric_Calibration-DN_to_Radiance-4CAF50?logo=science&logoColor=white" alt="Radiometric Calibration">
-  <img src="https://img.shields.io/badge/Cloud_Masking-Fmask%2FSen2Cor-2196F3?logo=cloud&logoColor=white" alt="Cloud Masking">
-  <img src="https://img.shields.io/badge/Topographic_Correction-SCS%2FC-Correction-FF9800?logo=mountain&logoColor=white" alt="Topographic Correction">
-  <img src="https://img.shields.io/badge/Image_Registration-Co%2FRegistration-9C27B0?logo=image&logoColor=white" alt="Image Registration">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=google-earth&logoColor=white" alt="GEE">
+  <img src="https://img.shields.io/badge/QGIS-93B023?logo=qgis&logoColor=white" alt="QGIS">
+  <img src="https://img.shields.io/badge/GRASS_GIS-376D3F?logo=osgeo&logoColor=white" alt="GRASS GIS">
+  <img src="https://img.shields.io/badge/GDAL/OGR-5CA343?logo=osgeo&logoColor=white" alt="GDAL">
+  <img src="https://img.shields.io/badge/Rasterio-000000?logo=python&logoColor=white" alt="Rasterio">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 </p>
 
-### **Remote Sensing Platforms**
-<div align="center">
-<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-  <!-- Platform Logos Animation -->
-  <g transform="translate(0,0)">
-    <!-- Sentinel -->
-    <circle cx="50" cy="40" r="15" fill="#1a237e" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <text x="50" y="44" text-anchor="middle" fill="white" font-size="10">S1</text>
-    
-    <!-- Landsat -->
-    <circle cx="120" cy="40" r="15" fill="#4a148c" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite" begin="0.5s"/>
-    </circle>
-    <text x="120" y="44" text-anchor="middle" fill="white" font-size="10">L9</text>
-    
-    <!-- MODIS -->
-    <circle cx="190" cy="40" r="15" fill="#0d47a1" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite" begin="1s"/>
-    </circle>
-    <text x="190" y="44" text-anchor="middle" fill="white" font-size="10">MODIS</text>
-    
-    <!-- Planet -->
-    <circle cx="260" cy="40" r="15" fill="#00695c" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite" begin="1.5s"/>
-    </circle>
-    <text x="260" y="44" text-anchor="middle" fill="white" font-size="10">Planet</text>
-    
-    <!-- SAR -->
-    <circle cx="330" cy="40" r="15" fill="#bf360c" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite" begin="2s"/>
-    </circle>
-    <text x="330" y="44" text-anchor="middle" fill="white" font-size="10">SAR</text>
-    
-    <!-- UAV -->
-    <circle cx="400" cy="40" r="15" fill="#33691e" opacity="0.8">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite" begin="2.5s"/>
-    </circle>
-    <text x="400" y="44" text-anchor="middle" fill="white" font-size="10">UAV</text>
-  </g>
-</svg>
-</div>
+### **🌍 Spatial Development & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostGIS-336791?logo=postgresql&logoColor=white" alt="PostGIS">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-## 📊 **GitHub Intelligence**
+## 📊 **GitHub Analytics & Contributions**
 
 <div align="center">
 
-### **🔄 Real-time Processing Visualization**
-```javascript
-// Simulating EO data processing
-const processingPipeline = {
-  stage1: "🌐 Data Acquisition",
-  stage2: "⚡ Pre-processing",
-  stage3: "🔬 Feature Extraction", 
-  stage4: "🤖 ML Inference",
-  stage5: "📊 Visualization"
-};
-
-// Animated progress
-const animateProgress = () => {
-  const stages = Object.values(processingPipeline);
-  return stages.map((stage, i) => 
-    `${stage} ${'▰'.repeat((i + 1) * 2)}${'▱'.repeat(10 - (i + 1) * 2)}`
-  ).join('\n');
-};
-```
-
-### **Repository Analytics**
 <a href="https://github.com/zafariabbas68">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&count_private=true&show_icons=true&theme=nightowl&hide_border=true&hide=issues&show=reviews,discussions_started,discussions_answered" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=nightowl&hide_border=true&langs_count=8&card_width=320" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&count_private=true&show_icons=true&theme=radical&hide_border=true&hide=issues&show=reviews,discussions_started" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
-### **🌍 Contribution Heatmap**
-![Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=react-dark&hide_border=true&custom_title=EO%20Processing%20Activity%20Timeline&area=true)
+### **🌱 Contribution Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=react-dark&hide_border=true&custom_title=Geospatial%20Development%20Activity&area=true)
 
 </div>
 
-## 📈 **Research Frontiers (2026)**
+## 📫 **Let's Connect & Collaborate**
 
 <div align="center">
 
-### **🛰️ Satellite Data Flow Animation**
+### **🌐 Global Connectivity Hub**
 <svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
-  <!-- Data flow from satellite to ground station -->
-  <ellipse cx="200" cy="40" rx="120" ry="25" fill="none" stroke="#2196f3" stroke-width="1" stroke-dasharray="5,3" opacity="0.6"/>
+  <!-- Central Node (You) -->
+  <circle cx="200" cy="75" r="25" fill="#2196f3">
+    <animate attributeName="r" values="25;27;25" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="200" y="75" text-anchor="middle" fill="white" font-size="11" font-weight="bold">You</text>
+  <text x="200" y="92" text-anchor="middle" fill="#bbdefb" font-size="8">Milan Hub</text>
   
-  <!-- Satellite -->
-  <g transform="translate(320,40)">
-    <rect x="-10" y="-5" width="20" height="10" fill="#ff9800" rx="2">
-      <animateTransform attributeName="transform" type="rotate" from="0 200 40" to="360 200 40" dur="12s" repeatCount="indefinite"/>
-    </rect>
-    <!-- Antenna -->
-    <line x1="10" y1="0" x2="20" y2="0" stroke="#ffb74d" stroke-width="2">
-      <animateTransform attributeName="transform" type="rotate" from="0 200 40" to="360 200 40" dur="12s" repeatCount="indefinite"/>
-    </line>
-  </g>
-  
-  <!-- Data transmission beams -->
-  <line x1="330" y1="40" x2="250" y2="120" stroke="#00e5ff" stroke-width="1" opacity="0.7">
-    <animate attributeName="stroke-dashoffset" from="20" to="0" dur="1s" repeatCount="indefinite"/>
-  </line>
-  <line x1="325" y1="45" x2="255" y2="115" stroke="#00bcd4" stroke-width="1" opacity="0.5">
-    <animate attributeName="stroke-dashoffset" from="20" to="0" dur="1s" repeatCount="indefinite" begin="0.3s"/>
-  </line>
-  
-  <!-- Ground Station -->
-  <g transform="translate(250,120)">
-    <!-- Dish -->
-    <path d="M-20,0 Q0,-30 20,0" fill="none" stroke="#795548" stroke-width="3"/>
-    <!-- Building -->
-    <rect x="-15" y="0" width="30" height="20" fill="#8d6e63"/>
-    <!-- Signal processing indicator -->
-    <circle cx="0" cy="10" r="3" fill="#4caf50">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <!-- Processing Center -->
-  <rect x="180" y="100" width="40" height="30" fill="#607d8b" rx="3">
-    <animate attributeName="fill" values="#607d8b;#78909c;#607d8b" dur="2s" repeatCount="indefinite"/>
-  </rect>
-  <text x="200" y="118" text-anchor="middle" fill="white" font-size="8">Processing</text>
-  
-  <!-- Data to Cloud -->
-  <line x1="220" y1="115" x2="280" y2="85" stroke="#ff9800" stroke-width="1">
-    <animate attributeName="stroke-dashoffset" from="0" to="20" dur="1s" repeatCount="indefinite" begin="0.5s"/>
-  </line>
-  
-  <!-- Cloud Storage -->
-  <g transform="translate(300,80)">
-    <ellipse cx="0" cy="0" rx="25" ry="15" fill="#e3f2fd"/>
-    <ellipse cx="-10" cy="-5" rx="15" ry="10" fill="#e3f2fd"/>
-    <ellipse cx="15" cy="-3" rx="12" ry="8" fill="#e3f2fd"/>
-    <text x="0" y="5" text-anchor="middle" fill="#1565c0" font-size="8">Cloud</text>
-  </g>
-</svg>
-
-</div>
-
-### **Active Investigations**
-- **🛰️ Multi-Sensor Fusion**: Integrating SAR, optical, and thermal data for all-weather monitoring
-- **🌳 Vegetation Dynamics**: Time-series analysis of Mediterranean forests using ESA CCI & Copernicus data
-- **🔥 Burn Severity Mapping**: Post-fire assessment using dNBR and machine learning
-- **💧 Water Resource Monitoring**: SAR-based soil moisture and optical-based evapotranspiration
-
-### **Politecnico di Milano Research Excellence**
-```python
-# Proud Graduate of Politecnico di Milano - Leading Geoinformatics Program
-class PolimiGraduate:
-    def __init__(self):
-        self.university = "Politecnico di Milano"
-        self.program = "MSc Geoinformatics Engineering"
-        self.specialization = "Remote Sensing & Spatial Data Science"
-        self.key_achievements = [
-            "Advanced Digital Image Processing",
-            "Geospatial Machine Learning",
-            "SAR Interferometry",
-            "WebGIS Development",
-            "Big Geodata Analytics"
-        ]
-    
-    def thesis_impact(self):
-        return "🏆 Award-winning research on Mediterranean forest monitoring using multi-temporal satellite data"
-
-grad = PolimiGraduate()
-```
-
-## 🏆 **Achievements & Recognition**
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-### **🎓 Politecnico Excellence**
-```yaml
-Graduation: "Magna Cum Laude - Geoinformatics Engineering"
-Thesis: "Multi-sensor Analysis of Mediterranean Forest Dynamics"
-Research: "Published in International Remote Sensing Journals"
-Skills: "Certified in Advanced Geospatial Analysis & Machine Learning"
-```
-
-</td>
-<td>
-
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Achievement Badges -->
+  <!-- Connection Nodes -->
   <g>
-    <!-- Thesis Award -->
-    <circle cx="50" cy="40" r="20" fill="gold" opacity="0.9">
-      <animate attributeName="r" values="20;22;20" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="50" y="45" text-anchor="middle" fill="black" font-size="8">Thesis</text>
-    <text x="50" y="55" text-anchor="middle" fill="black" font-size="6">Award</text>
+    <!-- Portfolio -->
+    <a href="https://personal-website-gaz.onrender.com" target="_blank">
+      <circle cx="100" cy="40" r="18" fill="#4caf50">
+        <animate attributeName="fill" values="#4caf50;#81c784;#4caf50" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <text x="100" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">Portfolio</text>
+      <line x1="125" y1="58" x2="180" y2="70" stroke="#4caf50" stroke-width="2" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" values="0;30" dur="2s" repeatCount="indefinite"/>
+      </line>
+    </a>
     
-    <!-- Publication -->
-    <circle cx="120" cy="40" r="20" fill="silver" opacity="0.9">
-      <animate attributeName="r" values="20;22;20" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-    </circle>
-    <text x="120" y="45" text-anchor="middle" fill="black" font-size="8">Research</text>
-    <text x="120" y="55" text-anchor="middle" fill="black" font-size="6">Paper</text>
+    <!-- GitHub -->
+    <a href="https://github.com/zafariabbas68" target="_blank">
+      <circle cx="300" cy="40" r="18" fill="#333">
+        <animate attributeName="fill" values="#333;#666;#333" dur="3s" repeatCount="indefinite" begin="0.5s"/>
+      </circle>
+      <text x="300" y="40" text-anchor="middle" fill="white" font-size="9" font-weight="bold">GitHub</text>
+      <line x1="275" y1="58" x2="220" y2="70" stroke="#333" stroke-width="2" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" values="0;30" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+      </line>
+    </a>
     
-    <!-- Open Source -->
-    <circle cx="190" cy="40" r="20" fill="#cd7f32" opacity="0.9">
-      <animate attributeName="r" values="20;22;20" dur="2s" repeatCount="indefinite" begin="1s"/>
-    </circle>
-    <text x="190" y="45" text-anchor="middle" fill="black" font-size="8">Open</text>
-    <text x="190" y="55" text-anchor="middle" fill="black" font-size="6">Source</text>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/" target="_blank">
+      <circle cx="100" cy="110" r="18" fill="#0077b5">
+        <animate attributeName="fill" values="#0077b5;#00a0dc;#0077b5" dur="3s" repeatCount="indefinite" begin="1s"/>
+      </circle>
+      <text x="100" y="110" text-anchor="middle" fill="white" font-size="9" font-weight="bold">LinkedIn</text>
+      <line x1="125" y1="92" x2="180" y2="80" stroke="#0077b5" stroke-width="2" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" values="0;30" dur="2s" repeatCount="indefinite" begin="0.6s"/>
+      </line>
+    </a>
+    
+    <!-- WhatsApp -->
+    <a href="https://wa.me/393791387487" target="_blank">
+      <circle cx="300" cy="110" r="18" fill="#25d366">
+        <animate attributeName="fill" values="#25d366;#5ae87a;#25d366" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+      </circle>
+      <text x="300" y="110" text-anchor="middle" fill="white" font-size="9" font-weight="bold">WhatsApp</text>
+      <line x1="275" y1="92" x2="220" y2="80" stroke="#25d366" stroke-width="2" opacity="0.7">
+        <animate attributeName="stroke-dashoffset" values="0;30" dur="2s" repeatCount="indefinite" begin="0.9s"/>
+      </line>
+    </a>
   </g>
-</svg>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📫 **Intelligent Connectivity**
-
-<div align="center">
-
-### **🌐 Global Network Status**
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Network nodes -->
-  <g>
-    <!-- Milan Node -->
-    <circle cx="200" cy="50" r="12" fill="#2196f3">
-      <animate attributeName="fill" values="#2196f3;#64b5f6;#2196f3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="200" y="55" text-anchor="middle" fill="white" font-size="8">Milan</text>
-    
-    <!-- Connections -->
-    <line x1="200" y1="62" x2="150" y2="30" stroke="#4caf50" stroke-width="1" opacity="0.6">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="200" y1="62" x2="250" y2="30" stroke="#4caf50" stroke-width="1" opacity="0.6">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite" begin="0.5s"/>
-    </line>
-    <line x1="200" y1="62" x2="180" y2="85" stroke="#4caf50" stroke-width="1" opacity="0.6">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite" begin="1s"/>
-    </line>
-    <line x1="200" y1="62" x2="220" y2="85" stroke="#4caf50" stroke-width="1" opacity="0.6">
-      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="2s" repeatCount="indefinite" begin="1.5s"/>
-    </line>
-    
-    <!-- Remote Nodes -->
-    <circle cx="150" cy="30" r="8" fill="#ff9800">
-      <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="30" r="8" fill="#ff9800">
-      <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
-    </circle>
-    <circle cx="180" cy="85" r="8" fill="#ff9800">
-      <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
-    </circle>
-    <circle cx="220" cy="85" r="8" fill="#ff9800">
-      <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite" begin="0.9s"/>
-    </circle>
-  </g>
+  
+  <!-- Data Flow Animation -->
+  <circle cx="200" cy="75" r="3" fill="#ff9800">
+    <animate attributeName="r" values="3;8;3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
 </svg>
 
 </div>
 
+### **📞 Direct Contact Channels**
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghulam-abbas-zafari/">
-    <img src="https://img.shields.io/badge/Politecnico_Alumni-Connect_Now-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height=30>
+  <a href="https://personal-website-gaz.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-View_Complete_Work-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height=35>
   </a>
-  <a href="mailto:ghulamabbas.zafari@gmail.com">
-    <img src="https://img.shields.io/badge/EO_Consultation-Available-D14836?logo=google-earth&logoColor=white&style=for-the-badge" alt="Email" height=30>
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID">
-    <img src="https://img.shields.io/badge/Research_Collaboration-Open-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge" alt="Google Scholar" height=30>
+  <a href="https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height=35>
   </a>
   <a href="https://github.com/zafariabbas68">
-    <img src="https://img.shields.io/badge/Geospatial_Code-Explore-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height=30>
+    <img src="https://img.shields.io/badge/GitHub-Explore_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height=35>
+  </a>
+  <a href="https://wa.me/393791387487">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Instantly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height=35>
+  </a>
+  <a href="mailto:ghulamabbas.zafari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ghulamabbas.zafari@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height=35>
   </a>
 </p>
 
@@ -547,26 +533,24 @@ Skills: "Certified in Advanced Geospatial Analysis & Machine Learning"
 
 <div align="center">
 
-### **📡 Real-time Status**
+### **🎓 Current Status & Values**
 ```yaml
-current_activity: "Processing Sentinel-2 time series for Mediterranean forest analysis"
-location: "Milan, Italy | Remote Sensing Hub"
-politecnico_status: "MSc Graduate - Geoinformatics Engineering"
-availability: "Open to remote sensing research & geospatial AI opportunities"
-next_mission: "SAR data acquisition over Alpine region"
+education: "Master's in Geoinformatics Engineering | Politecnico di Milano"
+thesis: "Successfully defended on October 23, 2025"
+specialization: "Remote Sensing, Geospatial AI & Spatial Development"
+values: "Making geospatial knowledge accessible to all | Creating STEM opportunities"
+availability: "Open for research, collaborations, and full-time opportunities"
+location: "Based in Milan, Italy | Available for remote work worldwide"
 ```
 
-*"Harnessing the power of Earth Observation from Politecnico di Milano to global impact — where every pixel tells a story of our changing planet."*
+*"Education is the most powerful weapon which you can use to change the world. As a geospatial scientist, I believe in making knowledge accessible to all, regardless of geography or circumstance."*  
+**— Nelson Mandela**
 
-![Visitor Analytics](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzafariabbas68&label=EO%20Visitors&countColor=%23263759&style=flat-square)
+**I stand in solidarity with Afghan women and girls facing educational barriers.**  
+*Through mentorship and technology, I'm committed to creating STEM opportunities in underserved communities worldwide.*
 
-**🎓 Politecnico di Milano Graduate** | **🛰️ Remote Sensing Specialist** | **🤖 Geospatial AI Engineer**  
-**Last Updated**: February 2026 | **Profile Version**: 3.1 | **Built with**: Python + SVG + EO Passion
+![Visitor Count](https://komarev.com/ghpvc/?username=zafariabbas68&color=blue&style=flat-square)
+
+**Last Updated**: February 2026 | **Portfolio**: [personal-website-gaz.onrender.com](https://personal-website-gaz.onrender.com)
 
 </div>
-
----
-
-<div align="center">
-
-### **🛰️ Live Satellite Pass Over Milan**
