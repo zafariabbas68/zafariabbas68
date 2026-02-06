@@ -16,7 +16,6 @@
       <stop offset="0%" style="stop-color:#1a237e;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#4a148c;stop-opacity:1" />
     </linearGradient>
-    <!-- Pulse animation for data transmission -->
     <radialGradient id="pulseGrad" cx="30%" cy="30%">
       <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
@@ -28,7 +27,7 @@
     <animate attributeName="opacity" values="0.9;0.95;0.9" dur="4s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Continent Highlights (Simplified Europe/Italy) -->
+  <!-- Continent Highlights -->
   <path d="M170,50 Q185,35 200,40 T230,50" fill="none" stroke="#81c784" stroke-width="2" opacity="0.7"/>
   <circle cx="185" cy="55" r="3" fill="#4caf50">
     <animate attributeName="r" values="3;4;3" dur="2s" repeatCount="indefinite"/>
@@ -41,7 +40,7 @@
   </ellipse>
   
   <!-- Animated Satellite -->
-  <g id="satellite">
+  <g>
     <rect x="95" y="57" width="18" height="8" fill="#ff9800" rx="3">
       <animateTransform attributeName="transform" type="rotate" from="0 200 60" to="360 200 60" dur="12s" repeatCount="indefinite"/>
     </rect>
@@ -70,7 +69,7 @@
   <!-- Ground Station -->
   <rect x="265" y="95" width="30" height="15" fill="#5d4037" rx="2"/>
   <rect x="272" y="88" width="16" height="7" fill="#8d6e63" rx="1"/>
-  <circle cx="280" y="102" r="2" fill="#4caf50">
+  <circle cx="280" cy="102" r="2" fill="#4caf50">
     <animate attributeName="fill" values="#4caf50;#a5d6a7;#4caf50" dur="1s" repeatCount="indefinite"/>
   </circle>
 </svg>
@@ -347,11 +346,12 @@ coastal_project = {
 </div>
 
 ### **💻 Other Portfolio Projects**
+
 | Project | Description | Technologies |
 |:--------|:------------|:-----------|
-| **[Milan Green Space Analysis](https://personal-website-gaz.onrender.com)** | Accessibility assessment of parks using network analysis & gravity modeling | `QGIS` `Network Analysis` `Python` |
-| **[3D Spatial Algorithms](https://personal-website-gaz.onrender.com)** | Convex hull algorithms on spherical surfaces with WebGL visualizations | `WebGL` `JavaScript` `3D Visualization` |
-| **[Interactive Dashboard](https://personal-website-gaz.onrender.com)** | Real-time visualization platform for global freedom scores | `React` `D3.js` `Mapbox` `FastAPI` |
+| **Milan Green Space Analysis** | Comprehensive accessibility assessment of parks and green spaces using advanced network analysis and gravity modeling | `QGIS` `Network Analysis` `Python` `Gravity Modeling` |
+| **3D Spatial Algorithms** | Implementation of convex hull algorithms on spherical surfaces with interactive WebGL visualizations | `WebGL` `JavaScript` `3D Visualization` `Python` |
+| **Interactive Dashboard** | Real-time data visualization platform for global freedom scores with interactive maps and analytics | `React` `D3.js` `Mapbox` `FastAPI` |
 
 ## 🛠️ **Technical Arsenal**
 
@@ -422,6 +422,8 @@ coastal_project = {
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" alt="WebGL">
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white" alt="D3.js">
 </p>
 
 ## 📊 **GitHub Analytics & Contributions**
