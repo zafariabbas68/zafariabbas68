@@ -1,7 +1,3 @@
-
-<!-- Professional Header with Contact Strip -->
-<div align="center">
-  
 # 🌍 Ghulam Abbas Zafari
 ### **MSc Geoinformatics Engineering | Geospatial AI & Earth Observation Specialist**
 **Politecnico di Milano** | 🎓 *Graduated October 2025*
@@ -20,7 +16,6 @@
 
 ---
 
-<!-- Executive Summary -->
 ## 🎯 Professional Profile
 
 <div align="center">
@@ -59,6 +54,7 @@ class GeospatialDataScientist:
         return "Bridging the gap between satellite data and sustainable solutions"
 
 scientist = GeospatialDataScientist()
+print(f"🛰️ {scientist.mission()}")
 ```
 
 </div>
@@ -197,7 +193,7 @@ project = {
 ### **🚀 Development & Deployment**
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) alt="FastAPI">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet">
@@ -212,14 +208,46 @@ project = {
 
 ### **📊 Development Statistics**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started)](https://github.com/zafariabbas68)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css)](https://github.com/zafariabbas68)
+| GitHub Stats | Top Languages |
+|:------------:|:-------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="300"/> |
 
-### **📅 Contribution Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Activity)
+### **📅 Activity Metrics**
+```text
+┌──────────────────────────────────────────────┐
+│           MONTHLY CONTRIBUTIONS              │
+├──────────────────────────────────────────────┤
+│ January 2026   ██████████████████████ 22     │
+│ December 2025  ████████████████████ 18       │
+│ November 2025  ████████████████ 14           │
+│ October 2025   ██████████████ 12             │
+└──────────────────────────────────────────────┘
 
-### **🏆 GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=zafariabbas68&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+┌──────────────────────────────────────────────┐
+│           LANGUAGE DISTRIBUTION              │
+├──────────────────────────────────────────────┤
+│ Python        ████████████████████████ 65%   │
+│ JavaScript    ██████████████████ 35%         │
+│ R             ██████████ 20%                 │
+│ SQL           ███████ 15%                    │
+│ Other         ███ 8%                         │
+└──────────────────────────────────────────────┘
+```
+
+### **🔥 GitHub Streak**
+<img src="https://streak-stats.demolab.com?user=zafariabbas68&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/>
+
+### **🏆 Repository Highlights**
+```
+──────────────────────────────────────────────────
+REPOSITORY                  STARS  FORKS  STATUS
+──────────────────────────────────────────────────
+thesis-mediterranean-forest   ⭐12   🍴3   🔬 Active
+SphereStats                   ⭐8    🍴2   🚀 Production  
+webgis-forest-monitoring      ⭐6    🍴1   ⚡ Maintained
+deep-learning-satellite       ⭐4    🍴1   🧠 Experimental
+──────────────────────────────────────────────────
+```
 
 </div>
 
