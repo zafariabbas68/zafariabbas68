@@ -1,8 +1,4 @@
-I've updated your GitHub README with your personal links, improved the design with animated geospatial SVGs, and integrated relevant details from your portfolio.
 
-Here is the enhanced version, which is ready for you to copy into your GitHub `README.md` file:
-
-```markdown
 # 🌍 Geospatial Data Scientist | MSc Geoinformatics Engineering
 
 **Politecnico di Milano**  
