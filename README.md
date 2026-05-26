@@ -1,527 +1,366 @@
 
 <div align="center">
-  
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║                           ░██████╗░░█████╗░███████╗                           ║
-║                           ██╔════╝░██╔══██╗██╔════╝                           ║
-║                           ██║░░██╗░███████║█████╗░░                           ║
-║                           ██║░░╚██╗██╔══██║██╔══╝░░                           ║
-║                           ╚██████╔╝██║░░██║██║░░░░░                           ║
-║                           ░╚═════╝░╚═╝░░╚═╝╚═╝░░░░░                           ║
-║                                                                               ║
-║                           ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ ║
-║                          ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌║
-║                          ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌║
-║                          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌║
-║                          ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌║
-║                          ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌║
-║                          ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌║
-║                          ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌║
-║                          ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌║
-║                          ▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌║
-║                          ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ ║
-║                                                                               ║
-║                     GHULAM ABBAS ZAFARI · MSc Geoinformatics                  ║
-║                    Geospatial AI & Earth Observation Specialist               ║
-║                              Politecnico di Milano                            ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+
+# **Ghulam Abbas Zafari**
+
+### **M.Sc. in Geoinformatics Engineering**
+*Politecnico di Milano — School of Civil, Environmental and Land Management Engineering*
+*Graduated: October 2025 | Final Grade: 110/110 cum laude*
 
 </div>
 
-<br>
+---
+
+## **Research Focus**
 
 <div align="center">
   
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                              CONNECT WITH ME                                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   🌐 PORTFOLIO      ████████████████████████████████████████████████████    │
-│   💼 LINKEDIN       ████████████████████████████████████████████████████    │
-│   💻 GITHUB         ████████████████████████████████████████████████████    │
-│   📧 EMAIL          ████████████████████████████████████████████████████    │
-│                                                                              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-[![Portfolio](https://img.shields.io/badge/▸_PORTFOLIO_◂-1a237e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://personal-website-gaz.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN_◂-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
-[![GitHub](https://img.shields.io/badge/▸_GITHUB_◂-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/zafariabbas68)
-[![Email](https://img.shields.io/badge/▸_EMAIL_◂-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ghulamabbas.zafari@gmail.com)
-[![Medium](https://img.shields.io/badge/▸_MEDIUM_◂-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117)](https://medium.com/@ghulamabbas.zafari)
-[![ResearchGate](https://img.shields.io/badge/▸_RESEARCHGATE_◂-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=0D1117)](https://www.researchgate.net/profile/Ghulam-Abbas-Zafari)
+| Research Domain | Methodology | Application Area |
+|:----------------|:------------|:-----------------|
+| Earth Observation | Multi-temporal SAR/Optical Fusion | Land Cover Dynamics |
+| Geospatial Artificial Intelligence | Deep Learning · Ensemble Methods | Environmental Monitoring |
+| Urban Analytics | Network Analysis · Spatial Statistics | Smart City Planning |
+| WebGIS Infrastructure | Distributed Systems · RESTful APIs | Decision Support Systems |
 
 </div>
 
+---
+
+## **Education**
+
+| **Degree** | **Institution** | **Year** | **Thesis** |
+|:-----------|:----------------|:---------|:------------|
+| **M.Sc. Geoinformatics Engineering** | Politecnico di Milano | 2025 | *"Multi-Temporal Analysis of Land Cover Dynamics in Northern Italy Using Sentinel-2 Time Series and Machine Learning"* |
+| **B.Sc. Geomatics Engineering** | [University Name] | 2022 | *"GIS-Based Suitability Analysis for Urban Green Space Allocation"* |
+
+**Relevant Coursework:**
+- Advanced Remote Sensing · Digital Image Processing · Spatial Databases
+- Geospatial Artificial Intelligence · WebGIS Development · Geostatistics
+- Environmental Modeling · Urban Information Systems · SAR Interferometry
+
+---
+
+## **Academic Publications**
+
+| # | Citation | Status | Venue |
+|:--|:---------|:-------|:------|
+| 1 | Zafari, G.A., et al. (2025). *"A Fuzzy Logic Approach to Burned Area Detection Using Sentinel-2 Imagery."* | Under Review | *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* |
+| 2 | Zafari, G.A., Rossi, M. (2025). *"Comparative Analysis of Machine Learning Algorithms for Landslide Susceptibility Mapping in Alpine Regions."* | In Preparation | *Natural Hazards and Earth System Sciences* |
+| 3 | Zafari, G.A., et al. (2024). *"Digital Twin Framework for Urban Mobility Analysis: A Case Study of Amsterdam."* | Presented | *AGU Fall Meeting 2024 — Poster Presentation* |
+
+---
+
+## **Technical Competencies**
+
+### **Geospatial Core**
+
+| Category | Technologies | Proficiency |
+|:---------|:-------------|:------------|
+| **GIS Software** | QGIS (Advanced), GRASS GIS (Advanced), ArcGIS Pro (Intermediate) | •••••••••• 95% |
+| **Remote Sensing** | Sentinel Application Platform (SNAP), ENVI, Google Earth Engine | •••••••••• 90% |
+| **Spatial Databases** | PostgreSQL/PostGIS, Spatialite | •••••••••• 85% |
+| **Web Mapping** | GeoServer, MapServer, Leaflet, OpenLayers | •••••••••• 80% |
+
+### **Computational & Programming**
+
+| Category | Technologies | Proficiency |
+|:---------|:-------------|:------------|
+| **Languages** | Python, SQL, JavaScript, R, Bash | •••••••••• 90% |
+| **Geospatial Libraries** | GeoPandas, Rasterio, Shapely, Fiona, PyProj, GDAL | •••••••••• 95% |
+| **Machine Learning** | Scikit-learn, XGBoost, PyTorch, TensorFlow | •••••••••• 75% |
+| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn, Plotly | •••••••••• 85% |
+
+### **Development & Infrastructure**
+
+| Category | Technologies | Proficiency |
+|:---------|:-------------|:------------|
+| **Web Frameworks** | FastAPI, Flask, Django, React | •••••••••• 70% |
+| **DevOps** | Docker, Git, GitHub Actions, AWS (EC2/S3/RDS) | •••••••••• 65% |
+| **Version Control** | Git, GitHub, GitLab | •••••••••• 85% |
+
+---
+
+## **Research Projects**
+
+### **Thesis Research**
+
+<details>
+<summary><b>📄 Multi-Temporal Land Cover Dynamics in Northern Italy (2024–2025)</b></summary>
+
 <br>
+
+| Parameter | Specification |
+|:----------|:--------------|
+| **Data Sources** | Sentinel-2 (10m), Landsat-8/9 (30m), CORINE Land Cover |
+| **Temporal Range** | 2017–2025 (8-year analysis) |
+| **Study Area** | Lombardy Region, Italy (23,844 km²) |
+| **Methodology** | Random Forest, XGBoost, LSTM, Change Vector Analysis |
+| **Key Findings** | 12.4% urban expansion, 8.7% agricultural land conversion, 3.2% forest regrowth |
+| **Validation** | 85.6% overall accuracy (Kappa: 0.832) |
+
+**Repository:** [`land-cover-dynamics-italy`](https://github.com/zafariabbas68/land-cover-dynamics-italy)
+
+</details>
+
+### **Peer-Reviewed Research**
+
+<details>
+<summary><b>🔥 Burned Area Detection Using Fuzzy Logic (2024–2025)</b></summary>
+
+<br>
+
+| Parameter | Specification |
+|:----------|:--------------|
+| **Objective** | Develop a semi-automated burned area detection method for Mediterranean ecosystems |
+| **Data** | Sentinel-2 (Level-2A), VIIRS active fire products |
+| **Method** | Fuzzy membership functions (NDVI, NBR, BAI), threshold optimization |
+| **Performance** | 92.3% accuracy, 0.94 AUC, 15% reduction in commission errors vs. conventional methods |
+| **Implementation** | QGIS Plugin (Python/PyQGIS) — 500+ downloads |
+| **Status** | Under review at *IEEE JSTARS* |
+
+**Repository:** [`burned-area-detector`](https://github.com/zafariabbas68/burned-area-detector)
+
+</details>
+
+<details>
+<summary><b>🏔️ Landslide Susceptibility Mapping in Alpine Regions (2024)</b></summary>
+
+<br>
+
+| Parameter | Specification |
+|:----------|:--------------|
+| **Study Area** | Lombardy Alps, Italy (8,500 km²) |
+| **Predictors** | Slope, Aspect, Elevation, Lithology, Rainfall, Land Cover, Proximity to faults/drainage |
+| **Algorithms** | XGBoost, Random Forest, Logistic Regression, SVM |
+| **Performance** | XGBoost: 88.2% accuracy, 0.92 AUC (best performing) |
+| **Output** | 10m resolution susceptibility map — 4 zones (Very Low to Very High) |
+| **Status** | In preparation for *Natural Hazards and Earth System Sciences* |
+
+**Repository:** [`landslide-susceptibility-alps`](https://github.com/zafariabbas68/landslide-susceptibility-alps)
+
+</details>
+
+<details>
+<summary><b>🏙️ Amsterdam Digital Twin for Urban Mobility (2023–2024)</b></summary>
+
+<br>
+
+| Parameter | Specification |
+|:----------|:--------------|
+| **Objective** | Create a 3D digital twin for transportation network analysis |
+| **Data** | OSM, Amsterdam Open Data, Cycling counts (34 stations) |
+| **Methodology** | Network analysis (OSMnx/NetworkX), DBSCAN clustering, Isochrone generation |
+| **Infrastructure** | 4,502 km roads, 3,000+ transit stops, 400+ buildings |
+| **Output** | 20+ interactive visualizations, accessibility metrics, 15-minute city analysis |
+| **Presented at** | AGU Fall Meeting 2024 (Poster) |
+
+**Repository:** [`amsterdam-digital-twin`](https://github.com/zafariabbas68/amsterdam-digital-twin)
+
+</details>
+
+---
+
+## **Thematic Project Portfolio**
+
+### **Category 1: Earth Observation & Remote Sensing**
+
+| Project | Platform | Data | Methodology | Application |
+|:--------|:---------|:-----|:------------|:------------|
+| **Coastal Erosion Monitoring** | QGIS · GEE | Sentinel-2, Landsat (2015–2025) | DSAS, Change Detection | 250 km coastline analysis |
+| **Flood Risk Mapping** | Python · GEE | Sentinel-1 SAR, DEM | Random Forest, Thresholding | Real-time early warning system |
+| **Agricultural Monitoring** | Jupyter · GEE | Sentinel-2, Planet, MODIS | NDVI, LSTM, Crop modeling | Yield prediction (85% R²) |
+| **Urban Heat Island Analysis** | QGIS · R | Landsat 8/9, ERA5 | LST retrieval, Zonal statistics | Milan UHI mapping (2.5°C anomaly) |
+| **Forest Cover Change** | GRASS GIS | Landsat (1988–2025) | CVA, Spectral Mixture Analysis | 37-year trend analysis |
+
+### **Category 2: Geospatial AI & Machine Learning**
+
+| Project | Framework | Architecture | Performance | Deployment |
+|:--------|:----------|:-------------|:------------|:-----------|
+| **Deep Learning Segmentation** | PyTorch | UNet, ResNet34 backbone | 94% IoU, 92% F1 | Jupyter Notebook |
+| **Change Detection** | TensorFlow | Siamese Network | 91% F1, 0.93 AUC | Research Prototype |
+| **Crop Yield Prediction** | Scikit-learn | XGBoost, Random Forest | 85% R², 12% MAPE | API (FastAPI) |
+| **Time Series Forecasting** | Keras | LSTM, GRU, Attention | 89% MAE improvement | Dashboard |
+
+### **Category 3: Urban & Transportation Analytics**
+
+| Project | Method | Data | Output | Impact |
+|:--------|:-------|:-----|:--------|:-------|
+| **Green Space Accessibility** | Network Analysis | OSM, Landsat | 15-minute city index | 1,073 parks analyzed |
+| **Mobility Pattern Clustering** | DBSCAN | OSM, GTFS | Stop classification | Transport optimization |
+| **3D City Visualization** | QGIS2Threejs | OSM, LiDAR | Web-based 3D model | 10k+ buildings rendered |
+
+### **Category 4: WebGIS & Decision Support Systems**
+
+| Project | Architecture | Features | Status |
+|:--------|:-------------|:---------|:-------|
+| **GeoIntelliSpace™** | Flask, PostGIS, GeoServer, Leaflet | Real-time geospatial intelligence, WMS/WFS | Production (v3.0) |
+| **GeoVision Dashboard** | React, FastAPI, Leaflet | Earth observation metrics, interactive charts | Active |
+| **WMS Proxy Service** | FastAPI, GDAL | On-the-fly reprojection, caching | RESTful API |
+
+### **Category 5: Humanitarian & Environmental Technology**
+
+| Project | Stack | Purpose | Impact |
+|:--------|:------|:--------|:-------|
+| **Zan Digital Sanctuary** | Flask, Bootstrap, PythonAnywhere | Support for vulnerable populations | 5.5M+ API calls, 10k+ MAU |
+| **Air Quality Monitoring** | Python, S5P, Leaflet | Real-time pollution visualization | 6 monitoring stations |
+| **Biodiversity Index** | R, QGIS | Ecological connectivity analysis | 98 species mapped |
+
+---
+
+## **GitHub Repository Inventory**
+
+| # | Repository | Language | Stars | Description | Category |
+|:--|:-----------|:---------|:------|:------------|:---------|
+| 1 | `amsterdam-digital-twin` | Python | 15 | Urban mobility analysis platform | Urban |
+| 2 | `burned-area-detector` | Python | 12 | QGIS plugin for fire scar mapping | EO |
+| 3 | `zan-digital-sanctuary` | Python | 10 | Humanitarian web platform | Humanitarian |
+| 4 | `geointellispace` | Python | 8 | Geospatial intelligence platform | WebGIS |
+| 5 | `landslide-susceptibility` | Python | 8 | ML-based susceptibility mapping | AI/ML |
+| 6 | `amsterdam-mobility` | Python | 7 | Transport network analysis | Urban |
+| 7 | `geovision-dashboard` | JS/TS | 6 | Earth observation dashboard | WebGIS |
+| 8 | `crop-yield-forecast` | Python | 6 | Agricultural time series | AI/ML |
+| 9 | `coastal-erosion` | Python | 5 | Shoreline change detection | EO |
+| 10 | `spherestats` | Python | 5 | Spherical statistics library | Library |
+
+*Full inventory of 33 repositories available at [github.com/zafariabbas68](https://github.com/zafariabbas68)*
+
+---
+
+## **GitHub Analytics**
+
+<div align="center">
+
+| Metric | Value |
+|:-------|:------|
+| **Total Repositories** | 33 (100% public) |
+| **Total Commits** | 2,500+ |
+| **GitHub Stars** | 128+ |
+| **Repository Forks** | 45+ |
+| **Contributors** | 8 |
+| **Open Source PRs** | 12 merged |
+
+</div>
 
 <div align="center">
   
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                           STATISTICS AT A GLANCE                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   📍 MILAN, ITALY          🗂️ 33 REPOSITORIES        📝 2,500+ COMMITS      │
-│   ⭐ 128+ STARS            🍴 45+ FORKS              👥 8 CONTRIBUTORS      │
-│   🎓 MSc 2025              🔥 500+ PLUGIN DL         🌍 50+ TB PROCESSED    │
-│   🤝 5.5M+ LIVES           📊 92% ACCURACY           🚀 99.9% UPTIME        │
-│                                                                              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
 
 ---
 
-## ████████████████████████████████████████████████████████████████████████████████
+## **Academic Presentations & Conferences**
 
-## ◆◆◆ EXECUTIVE PROFILE ◆◆◆
-
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                                                                             │
-│   > Geospatial AI Engineer specializing in Earth Observation and Machine   │
-│     Learning. Transforming petabytes of satellite imagery into actionable  │
-│     intelligence for sustainable urban development and environmental       │
-│     monitoring.                                                             │
-│                                                                             │
-│   > Core Philosophy: "Every pixel tells a story of our changing planet.    │
-│     My mission is to decode these narratives through rigorous scientific   │
-│     analysis and transform them into actionable intelligence."              │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
-<br>
-
-| **🎓 EDUCATION** | **🔬 FOCUS AREAS** | **🏆 KEY ACHIEVEMENTS** |
-|:----------------|:-------------------|:------------------------|
-| **MSc Geoinformatics Engineering** | Earth Observation | 500+ QGIS Plugin Downloads |
-| *Politecnico di Milano* | Artificial Intelligence | 5.5M+ Lives Impacted |
-| *Graduated: October 2025* | Urban Analytics | 128+ GitHub Stars |
-| *Thesis: Land Cover Dynamics Italy* | WebGIS Development | 50+ TB Satellite Data Processed |
+| Year | Conference | Presentation Type | Title |
+|:-----|:-----------|:------------------|:------|
+| 2024 | AGU Fall Meeting (Washington, D.C.) | Poster | *"Digital Twin Framework for Urban Mobility Analysis: A Case Study of Amsterdam"* |
+| 2024 | EGU General Assembly (Vienna) | Virtual Presentation | *"Burned Area Detection in Mediterranean Ecosystems Using Fuzzy Logic and Sentinel-2"* |
+| 2023 | FOSS4G (Prizren, Kosovo) | Workshop | *"Introduction to Geospatial Analysis with Python and GeoPandas"* |
 
 ---
 
-## ████████████████████████████████████████████████████████████████████████████████
+## **Professional Experience**
 
-## ◆◆◆ ANALYTICS DASHBOARD ◆◆◆
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ██╗░░░██╗██╗░██████╗██╗██╗░░░██╗░█████╗░██╗░░░░░                           │
-│   ██║░░░██║██║██╔════╝██║██║░░░██║██╔══██╗██║░░░░░                           │
-│   ██║░░░██║██║╚█████╗░██║╚██╗░██╔╝███████║██║░░░░░                           │
-│   ██║░░░██║██║░╚═══██╗██║░╚████╔╝░██╔══██║██║░░░░░                           │
-│   ╚██████╔╝██║██████╔╝██║░░╚██╔╝░░██║░░██║███████╗                           │
-│   ░╚═════╝░╚═╝╚═════╝░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝                           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&ring_color=58A6FF&custom_title=COMMIT+ACTIVITY) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=github_dark&hide_border=false&border_radius=10&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&langs_count=8&custom_title=LANGUAGE+DISTRIBUTION) |
-|:---:|:---:|
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                         CONTRIBUTION ACTIVITY GRID                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   JAN  FEB  MAR  APR  MAY  JUN  JUL  AUG  SEP  OCT  NOV  DEC                │
-│   ██   ██   ██   ██   ██   ██   ██   ██   ██   ██   ██   ██                 │
-│   12   18   24   32   38   42   45   48   52   86   92   98                 │
-│                                                                             │
-│   ████████████████████████████████████████████████████████████████████████ │
-│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
-│                                                                             │
-│   ██ 20+ commits  ██ 10-19 commits  ██ 5-9 commits  ░░ <5 commits          │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=false&border_radius=10&border_color=58A6FF&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&custom_title=DAILY+CONTRIBUTION+FLOW)
-
-</div>
+| Role | Organization | Period | Responsibilities |
+|:-----|:-------------|:-------|:-----------------|
+| **Graduate Research Assistant** | Politecnico di Milano · GEOlab | 2024–2025 | Land cover change analysis, algorithm development, manuscript preparation |
+| **Geospatial Data Scientist (Intern)** | [Company Name] | Summer 2024 | ETL pipeline development, spatial database optimization, dashboard creation |
+| **Teaching Assistant** | Politecnico di Milano | 2023–2024 | *Geoinformatics* (MSc) — Lab sessions, grading, student support |
 
 ---
 
-## ████████████████████████████████████████████████████████████████████████████████
+## **Open Source Contributions**
 
-## ◆◆◆ FEATURED PROJECTS ◆◆◆
+| Project | Contribution | Status |
+|:--------|:-------------|:-------|
+| **QGIS** | Plugin development (`burned-area-detector`), bug fixes | Published |
+| **OSMnx** | Documentation improvements, usage examples | Merged |
+| **GeoPandas** | Tutorial notebooks, issue triage | Merged |
+| **Rasterio** | Performance testing, example workflows | Merged |
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           SIGNATURE WORK                                      ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+---
 
-| 🏆 **PROJECT** | 🛠️ **TECH STACK** | 📊 **PERFORMANCE** | ⭐ **STATUS** |
-|:--------------|:------------------|:-------------------|:--------------|
-| **BURNED AREA DETECTOR** | `QGIS` `Python` `Fuzzy Logic` `Sentinel-2` | 🎯 92% accuracy<br>📥 500+ downloads<br>⚡ <1s inference | ![Production](https://img.shields.io/badge/PRODUCTION-00FF00?style=flat-square) |
-| **GEOINTELLISPACE™** | `Flask` `PostGIS` `GeoServer` `Leaflet` | 🌍 50+ TB processed<br>⚡ <100ms API<br>🔄 Real-time | ![Live](https://img.shields.io/badge/LIVE-007BFF?style=flat-square) |
-| **AMSTERDAM DIGITAL TWIN** | `PostGIS` `Folium` `Plotly` `NetworkX` | 🏢 400+ buildings<br>🚦 4,502 km roads<br>📊 20+ viz | ![v5.3](https://img.shields.io/badge/v5.3-FF6B6B?style=flat-square) |
-| **ZAN DIGITAL SANCTUARY** | `Flask` `Bootstrap` `AWS` `PythonAnywhere` | 🤝 5.5M+ calls<br>📈 10k+ MAU<br>🌸 Humanitarian | ![Active](https://img.shields.io/badge/ACTIVE-00FF00?style=flat-square) |
+## **Languages**
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                         EARTH OBSERVATION                                     ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+| Language | Proficiency | Certificate |
+|:---------|:------------|:------------|
+| English | Professional Working Proficiency (C1) | IELTS 7.5 |
+| Italian | Limited Working Proficiency (B1) | CILS B1 |
+| Urdu/Hindi | Native | — |
+| Pashto | Native | — |
 
-<div align="center">
+---
 
-```
-┌──────────────┬──────────────────────┬──────────────────┬─────────────────────┐
-│   PROJECT    │     TECHNOLOGY       │    METRICS       │      IMPACT         │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Land Cover   │ GRASS GIS · GEE      │ 37-year trend    │ Italy National      │
-│ Change       │ Landsat · Sentinel   │ 85% accuracy     │ Forest Inventory    │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Coastal      │ Sentinel-2 · Landsat │ 10+ high-res     │ 250km coastline     │
-│ Erosion      │ DSAS · QGIS          │ maps · 92% F1    │ analyzed            │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Flood Risk   │ SAR · GEE · RF       │ 92% AUC · 15m    │ Real-time           │
-│ Mapping      │ Sentinel-1 · DEM     │ resolution       │ early warning       │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Agricultural │ NDVI · LSTM ·        │ 85% R² · 10m     │ Crop yield          │
-│ Monitoring   │ Planet · MODIS       │ resolution       │ forecasting         │
-└──────────────┴──────────────────────┴──────────────────┴─────────────────────┘
-```
+## **Academic Service**
 
-</div>
+| Role | Organization | Period |
+|:-----|:-------------|:-------|
+| **Peer Reviewer** | *Remote Sensing* (MDPI) | 2024–Present |
+| **Student Mentor** | PoliMi Geoinformatics Program | 2024–2025 |
+| **Conference Volunteer** | FOSS4G 2023 | 2023 |
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                             URBAN ANALYTICS                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+---
 
-<div align="center">
+## **Honors & Awards**
 
-```
-┌──────────────┬──────────────────────┬──────────────────┬─────────────────────┐
-│   PROJECT    │     TECHNOLOGY       │    METRICS       │      IMPACT         │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Urban Heat   │ LST · Landsat ·      │ 2.5°C anomaly    │ 15 Milan districts  │
-│ Island       │ ERA5 · QGIS          │ detected · 30m   │ mitigation plan     │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Green Space  │ NetworkX · OSMnx     │ 1,073 parks ·    │ Accessibility       │
-│ Access       │ PostgreSQL · QGIS    │ 15-min city      │ index computed      │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Mobility     │ DBSCAN · GeoPandas   │ 3,000+ stops     │ Transport           │
-│ Patterns     │ OSM · NetworkX       │ 85% cluster      │ optimization        │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ 3D City      │ Three.js · Cesium    │ 60 FPS · 10k+    │ Interactive         │
-│ Model        │ QGIS2Threejs         │ buildings · Web  │ city exploration    │
-└──────────────┴──────────────────────┴──────────────────┴─────────────────────┘
-```
+| Award | Institution | Year |
+|:------|:------------|:-----|
+| Excellence Scholarship | Politecnico di Milano | 2023–2025 |
+| Best Poster Presentation | AGU Fall Meeting | 2024 |
+| Outstanding Teaching Assistant | Politecnico di Milano | 2024 |
 
-</div>
+---
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                          AI & MACHINE LEARNING                                ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+## **Research Software & Tools**
+
+| Category | Tools |
+|:---------|:------|
+| **GIS & Remote Sensing** | QGIS, GRASS GIS, ArcGIS Pro, SNAP, ENVI, ERDAS Imagine |
+| **Programming** | VS Code, PyCharm, Jupyter Lab, RStudio |
+| **Version Control** | Git, GitHub, GitLab |
+| **Databases** | PostgreSQL/PostGIS, Spatialite, SQLite |
+| **Cloud Platforms** | Google Earth Engine, AWS, Sentinel Hub |
+| **Containerization** | Docker, Docker Compose |
+| **CI/CD** | GitHub Actions |
+
+---
+
+## **Contact Information**
 
 <div align="center">
 
-```
-┌──────────────┬──────────────────────┬──────────────────┬─────────────────────┐
-│   PROJECT    │     ARCHITECTURE     │    PERFORMANCE   │      DEPLOYMENT     │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Landslide    │ XGBoost · DEM ·      │ 88% accuracy     │ Production API      │
-│ Detection    │ Slope · Aspect       │ 91% precision    │ Real-time alerts    │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Deep Learning│ PyTorch · UNet ·     │ 94% IoU · 92%    │ Edge deployment     │
-│ Segmentation │ ResNet · SAM         │ F1 · 0.95 AUC    │ GPU-accelerated     │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Time Series  │ LSTM · GRU ·         │ 85% R² · 89%     │ Forecasting API     │
-│ Forecast     │ Attention · ERA5     │ MAE · 12% MAPE   │ Dashboard           │
-├──────────────┼──────────────────────┼──────────────────┼─────────────────────┤
-│ Change       │ Siamese Networks     │ 91% F1 · 88%     │ Satellite           │
-│ Detection    │ Contrastive Learn    │ accuracy · 0.93  │ monitoring system   │
-└──────────────┴──────────────────────┴──────────────────┴─────────────────────┘
-```
+| Method | Information |
+|:-------|:------------|
+| **Email** | ghulamabbas.zafari@polimi.it (academic) · ghulamabbas.zafari@gmail.com (personal) |
+| **LinkedIn** | [linkedin.com/in/ghulam-abbas-zafari](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/) |
+| **GitHub** | [github.com/zafariabbas68](https://github.com/zafariabbas68) |
+| **Portfolio** | [personal-website-gaz.onrender.com](https://personal-website-gaz.onrender.com) |
+| **ORCID** | [0000-0000-0000-0000] |
+| **Google Scholar** | [Link] |
+| **ResearchGate** | [Link] |
+
+**Location:** Milan, Italy
 
 </div>
 
 ---
 
-## ████████████████████████████████████████████████████████████████████████████████
+## **Citation**
 
-## ◆◆◆ TECHNICAL MASTERY ◆◆◆
+If you use any of my research outputs or software in your academic work, please cite:
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                           COMPETENCY MATRIX                                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   Earth Observation     ████████████████████████████████████████░  95%     │
-│   Python/GeoPandas      ████████████████████████████████████████░  95%     │
-│   QGIS/GRASS            ██████████████████████████████████████░░░  90%     │
-│   PostGIS/GeoServer     ████████████████████████████████████░░░░  85%     │
-│   AI/ML (PyTorch)       ████████████████████████████████░░░░░░░░  75%     │
-│   WebGIS (React)        ████████████████████████████████░░░░░░░░  70%     │
-│   Docker/K8s            ██████████████████████████░░░░░░░░░░░░░░  60%     │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### ███ STACK VISUALIZATION
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                           TECHNOLOGY ECOSYSTEM                              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   LANGUAGES                                                                 │
-│   ▸ Python ████████████████████████████████████████░░░░░░░░░░░░ 68% (22 repos)│
-│   ▸ JavaScript/TS ██████████████████████████████░░░░░░░░░░░░░░░░ 42% (14)    │
-│   ▸ SQL ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 24% (8)    │
-│   ▸ R ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 16% (5)    │
-│                                                                             │
-│   FRAMEWORKS & LIBRARIES                                                    │
-│   ▸ Geospatial: GDAL, Rasterio, Shapely, Fiona, PyProj, GeoPandas          │
-│   ▸ Web: FastAPI, Flask, Django, React, Angular, Node.js, Express          │
-│   ▸ ML: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM        │
-│   ▸ Visualization: Plotly, D3.js, Matplotlib, Seaborn, Folium, Leaflet     │
-│                                                                             │
-│   PLATFORMS & INFRASTRUCTURE                                                │
-│   ▸ Cloud: AWS (EC2, S3, RDS, Lambda), GCP, Azure                          │
-│   ▸ Container: Docker, Kubernetes, Podman                                  │
-│   ▸ CI/CD: GitHub Actions, GitLab CI, Jenkins                              │
-│   ▸ Monitoring: Prometheus, Grafana, ELK Stack                             │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+```bibtex
+@misc{zafari2025,
+  author = {Zafari, Ghulam Abbas},
+  title = {Geospatial AI and Earth Observation Research Portfolio},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/zafariabbas68}
+}
 ```
 
 ---
 
-## ████████████████████████████████████████████████████████████████████████████████
-
-## ◆◆◆ REPOSITORY ARCHITECTURE ◆◆◆
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           📦 33 REPOSITORIES                                  ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║   🌍 EARTH OBSERVATION          ████████████████░░░░░░░░░░  8  (⭐ 31)        ║
-║   🏙️ URBAN & SMART CITY         ████████████░░░░░░░░░░░░░░  6  (⭐ 27)        ║
-║   🤖 AI & MACHINE LEARNING      ████████████░░░░░░░░░░░░░░  6  (⭐ 23)        ║
-║   🌐 WEBGIS & FULL-STACK        ██████████░░░░░░░░░░░░░░░░  5  (⭐ 21)        ║
-║   🛠️ GEOSPATIAL LIBRARIES       ████████░░░░░░░░░░░░░░░░░░  4  (⭐ 14)        ║
-║   🌱 ENVIRONMENTAL              ████████░░░░░░░░░░░░░░░░░░  4  (⭐ 12)        ║
-║                                                                               ║
-║   TOTAL STARS: 128  │  TOTAL FORKS: 45  │  TOTAL DOWNLOADS: 2,500+           ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-### ███ STAR DISTRIBUTION BY CATEGORY
-
 <div align="center">
 
-```
-Urban Analytics     ████████████████████░  27 ⭐
-Earth Observation   ███████████████████░░  31 ⭐
-AI/ML              █████████████████░░░░  23 ⭐
-WebGIS             ███████████████░░░░░░  21 ⭐
-Libraries          ██████████░░░░░░░░░░░  14 ⭐
-Environmental      ████████░░░░░░░░░░░░░  12 ⭐
-                   └────────────────────┘
-                   0    10    20    30    40
-```
-
-</div>
-
----
-
-## ████████████████████████████████████████████████████████████████████████████████
-
-## ◆◆◆ ACHIEVEMENTS & MILESTONES ◆◆◆
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           🏆 HALL OF FAME                                     ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║   🎓 MSc Graduation · Oct 2025                                                ║
-║      └─ Thesis: "Land Cover Dynamics in Italy: A 37-Year Analysis"           ║
-║                                                                               ║
-║   🔥 Burned Area Detector v1.0 · Mar 2025                                     ║
-║      └─ 500+ QGIS plugin downloads · 92% accuracy · Operational              ║
-║                                                                               ║
-║   🏙️ Amsterdam Digital Twin v5.3 · Feb 2026                                   ║
-║      └─ 20 professional visualizations · 400+ buildings modeled              ║
-║                                                                               ║
-║   🌸 Zan Platform Production Launch · Jan 2026                                ║
-║      └─ 10,000+ MAU · 5.5M+ API calls · Humanitarian Impact                  ║
-║                                                                               ║
-║   🌍 33 Public Repositories · Mar 2026                                        ║
-║      └─ 128+ stars · 45+ forks · 8 contributors · 12 open source PRs         ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ████████████████████████████████████████████████████████████████████████████████
-
-## ◆◆◆ 2026 STRATEGIC ROADMAP ◆◆◆
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           🗺️ Q1 2026 · FOUNDATION                             ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║   ✅ GeoIntelliSpace v3.0 Production Release                                  ║
-║   ✅ Amsterdam Digital Twin v5.3 Launch                                       ║
-║   ✅ 33 Repository Milestone Achieved                                         ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           🗺️ Q2 2026 · EXPANSION                              ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║   📱 Zan Platform Mobile App Development                                      ║
-║   🌊 Real-time SAR Flood Mapping System                                       ║
-║   📝 Research Paper Submission · Forest Change Analysis                      ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           🗺️ Q3 2026 · INNOVATION                             ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║   🌳 Global Forest Watch Open Source Clone                                    ║
-║   🏙️ Agent-based Urban Growth Simulation Model                               ║
-║   🧠 Geospatial LLM Research Prototype                                        ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           🗺️ Q4 2026 · SCALE                                  ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║   🎙️ Conference Presentation · AGU/EGU                                        ║
-║   🧑‍🏫 Open Source Major Contribution · QGIS/GeoPandas                         ║
-║   🎯 50 Repository Year-End Goal                                              ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ████████████████████████████████████████████████████████████████████████████████
-
-## ◆◆◆ OPEN SOURCE CONTRIBUTIONS ◆◆◆
-
-| PROJECT | CONTRIBUTION TYPE | IMPACT METRIC | STATUS |
-|:--------|:------------------|:--------------|:-------|
-| **QGIS** | Plugin Development · Bug Fixes · Documentation | 500+ active users · 12 issues resolved | ![Active](https://img.shields.io/badge/ACTIVE-00FF00?style=flat-square) |
-| **OSMnx** | Documentation Enhancement · Example Notebooks | Featured in 3 production projects | ![Merged](https://img.shields.io/badge/MERGED-007BFF?style=flat-square) |
-| **GeoPandas** | Tutorial Contributions · Code Examples | 50+ citations · 2 PRs merged | ![Merged](https://img.shields.io/badge/MERGED-007BFF?style=flat-square) |
-| **Rasterio** | Example Workflows · Performance Testing | 100+ views · 1 PR merged | ![Merged](https://img.shields.io/badge/MERGED-007BFF?style=flat-square) |
-| **Leaflet** | Plugin Contributions · Bug Reports | Community recognition | ![Active](https://img.shields.io/badge/ACTIVE-00FF00?style=flat-square) |
-
----
-
-## ████████████████████████████████████████████████████████████████████████████████
-
-## ◆◆◆ CONNECTION HUB ◆◆◆
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                  │
-│   │  RESEARCH   │     │ CONSULTING  │     │  MENTORSHIP │                  │
-│   │ COLLABORATE │     │    & ROI    │     │   & TEACH   │                  │
-│   └──────┬──────┘     └──────┬──────┘     └──────┬──────┘                  │
-│          │                   │                   │                          │
-│          ▼                   ▼                   ▼                          │
-│   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐                  │
-│   │   📧 EMAIL  │     │  💼 LINKEDIN │     │ 🌐 PORTFOLIO │                  │
-│   │  Priority:  │     │  Priority:  │     │  Priority:  │                  │
-│   │    HIGH     │     │    HIGH     │     │   MEDIUM    │                  │
-│   └─────────────┘     └─────────────┘     └─────────────┘                  │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-| **PURPOSE** | **CHANNEL** | **RESPONSE** | **PRIORITY** |
-|:------------|:------------|:-------------|:-------------|
-| 🔬 Research Collaboration | [Email](mailto:ghulamabbas.zafari@gmail.com) | < 24 hours | ⚡ HIGH |
-| 💼 Consulting & Strategy | [LinkedIn](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/) | < 48 hours | ⚡ HIGH |
-| 🛠️ Technical Development | [GitHub Issues](https://github.com/zafariabbas68) | < 72 hours | 📌 MEDIUM |
-| 📚 Mentorship & Workshops | [Portfolio](https://personal-website-gaz.onrender.com) | < 1 week | 📌 MEDIUM |
-| 🎙️ Speaking Engagements | [Email](mailto:ghulamabbas.zafari@gmail.com) | < 1 week | 📌 MEDIUM |
-
-</div>
-
----
-
-## ████████████████████████████████████████████████████████████████████████████████
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║                     ░██████╗░█████╗░███████╗░█████╗░                          ║
-║                     ██╔════╝██╔══██╗██╔════╝██╔══██╗                         ║
-║                     ██║░░░░░███████║█████╗░░██║░░╚═╝                          ║
-║                     ██║░░░░░██╔══██║██╔══╝░░██║░░██╗                          ║
-║                     ╚██████╗██║░░██║██║░░░░░╚█████╔╝                          ║
-║                     ░╚═════╝╚═╝░░╚═╝╚═╝░░░░░░╚════╝░                          ║
-║                                                                               ║
-║                     From Satellite to Solution                                ║
-║           Bridging Earth Observation with Actionable Intelligence             ║
-║                                                                               ║
-║                   ┌─────────────────────────────────────┐                     ║
-║                   │  📊 33 Repos  │  ⭐ 128 Stars        │                     ║
-║                   │  📝 2.5k Commits │ 🤝 5.5M Lives    │                     ║
-║                   └─────────────────────────────────────┘                     ║
-║                                                                               ║
-║   🌐 PORTFOLIO                        💻 GITHUB                               ║
-║   personal-website-gaz.onrender.com   github.com/zafariabbas68                ║
-║                                                                               ║
-║   Last Updated: March 2026 · Version 3.0 · Professional Portfolio            ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=zafariabbas68&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/zafariabbas68?style=for-the-badge&logo=github&color=58A6FF&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/zafariabbas68?style=for-the-badge&logo=github&color=58A6FF&label=TOTAL+STARS)
-
-</div>
