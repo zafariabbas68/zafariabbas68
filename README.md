@@ -8,9 +8,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zafariabbas68)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulamabbas.zafari@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=radical&hide_border=true)
 
 📍 **Milan, Italy** | **33 Public Repositories** | **2,500+ Commits** | **128+ Stars**
 
