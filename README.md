@@ -8,8 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-gaz.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zafariabbas68)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulamabbas.zafari@gmail.com)
 
