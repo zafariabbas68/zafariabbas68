@@ -1,25 +1,24 @@
 
-
 # 🌍 Ghulam Abbas Zafari
 
-### **MSc Geoinformatics Engineering | Geospatial AI & Earth Observation Specialist**
+### **MSc Geoinformatics Engineering**  
+### **Geospatial AI & Earth Observation Specialist**
 
-**Politecnico di Milano** | 🎓 *Graduated October 2025*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-gaz.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zafariabbas68)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulamabbas.zafari@gmail.com)
-
-📍 **Milan, Italy** | **33 Public Repositories** | **2,500+ Commits** | **128+ Stars**
-
-</div>
+**Politecnico di Milano** | 🎓 *Graduated October 2025*  
+📍 **Milan, Italy**
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-gaz.onrender.com)
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
+[![💻 GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zafariabbas68)
+[![📧 Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulamabbas.zafari@gmail.com)
+
+**33 Public Repositories** • **2,500+ Commits** • **128+ Stars** • **45+ Forks**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -27,36 +26,30 @@
 |:---:|:---:|
 | **Commit Activity** | **Language Distribution** |
 
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects Gallery
+## 🏆 Featured Projects
 
 <div align="center">
 
-| 🌟 **Project** | 🛠️ **Tech Stack** | 📊 **Stats** |
-|:---:|:---:|:---:|
-| **🔥 Burned Area Detector**<br>Professional QGIS Plugin | `QGIS` `Python` `Fuzzy Logic` `Sentinel-2` | ![Stars](https://img.shields.io/badge/⭐-12-brightgreen)<br>![Version](https://img.shields.io/badge/v1.0.0-orange) |
-| **🛰️ GeoIntelliSpace™**<br>Geospatial Intelligence Platform | `Flask` `PostGIS` `GeoServer` `Leaflet` | ![Stars](https://img.shields.io/badge/⭐-8-brightgreen)<br>![Deploy](https://img.shields.io/badge/Live-Demo-blue) |
-| **🌍 GeoVision Dashboard**<br>Earth Observation Dashboard | `Angular` `FastAPI` `Leaflet` `Chart.js` | ![Stars](https://img.shields.io/badge/⭐-6-brightgreen)<br>![Status](https://img.shields.io/badge/Active-✓-success) |
-| **🏙️ Amsterdam Digital Twin**<br>Smart City Platform v5.3 | `PostGIS` `GeoServer` `Plotly` `Folium` | ![Stars](https://img.shields.io/badge/⭐-15-brightgreen)<br>![Visuals](https://img.shields.io/badge/20-Plots-blue) |
-| **🌸 Zan Digital Sanctuary**<br>Humanitarian Tech Platform | `Flask` `Bootstrap` `PythonAnywhere` | ![Stars](https://img.shields.io/badge/⭐-10-brightgreen)<br>![Impact](https://img.shields.io/badge/5.5M-Calls-green) |
-| **🚲 Amsterdam Mobility**<br>Urban Transport Analysis | `OSMnx` `NetworkX` `GeoPandas` `DBSCAN` | ![Stars](https://img.shields.io/badge/⭐-7-brightgreen)<br>![Data](https://img.shields.io/badge/3K-Stops-orange) |
+| Project | Tech Stack | Impact |
+|:--------|:----------|:------|
+| **🔥 Burned Area Detector**<br>Professional QGIS Plugin | `QGIS` `Python` `Fuzzy Logic` `Sentinel-2` | ⭐ 12 • v1.0.0 |
+| **🛰️ GeoIntelliSpace™**<br>Geospatial Intelligence Platform | `Flask` `PostGIS` `GeoServer` `Leaflet` | ⭐ 8 • [Live Demo](https://personal-website-gaz.onrender.com) |
+| **🌍 GeoVision Dashboard**<br>Earth Observation Dashboard | `Angular` `FastAPI` `Leaflet` `Chart.js` | ⭐ 6 • Active ✓ |
+| **🏙️ Amsterdam Digital Twin**<br>Smart City Platform v5.3 | `PostGIS` `GeoServer` `Plotly` `Folium` | ⭐ 15 • 20+ Plots |
+| **🌸 Zan Digital Sanctuary**<br>Humanitarian Tech Platform | `Flask` `Bootstrap` `Python` | ⭐ 10 • 5.5M+ Calls |
+| **🚲 Amsterdam Mobility**<br>Urban Transport Analysis | `OSMnx` `NetworkX` `GeoPandas` `DBSCAN` | ⭐ 7 • 3K+ Stops |
 
 </div>
 
 ---
 
-## 📂 Repository Distribution by Category
+## 📂 Repository Distribution
 
 <div align="center">
 
@@ -69,32 +62,80 @@
 | 🛠️ Geospatial Libraries | 4 | 12% |
 | 🌱 Environmental & Humanitarian | 4 | 12% |
 
-</div>
-
-### 📊 Technology Stack Distribution
+**Technology Stack Distribution**
 
 ```
 Python                    ████████████████████████████████████ 68%  (22 repos)
-JavaScript/TypeScript     ████████████████████████ 42%          (14 repos)
-SQL                       ████████████ 24%                       (8 repos)
-R                         ████████ 16%                           (5 repos)
-HTML/CSS                  ████ 8%                                (3 repos)
+JavaScript/TypeScript     ██████████████████████░░░░░░░░░░░░ 42%  (14 repos)
+SQL                       ████████████░░░░░░░░░░░░░░░░░░░░░░ 24%  (8 repos)
+R                         ████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 16%  (5 repos)
+HTML/CSS                  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8%  (3 repos)
 ```
 
-### 📈 Commit Activity by Month
+</div>
+
+---
+
+## 🌟 Project Showcase by Category
+
+### 🌍 Earth Observation & Remote Sensing (8 Projects)
 
 ```
-Mar 2026   ████████████████████████████████████ 45 commits
-Feb 2026   ████████████████████████████████████ 42 commits
-Jan 2026   ████████████████████████████████████ 38 commits
-Dec 2025   ██████████████████████████████ 32 commits
-Nov 2025   ██████████████████████████ 28 commits
-Oct 2025   ██████████████████████████ 26 commits
+┌─────────────────────────────────────────────────────────────────────┐
+│  🛰️ Sentinel-2 Time Series    🔥 Burned Area Detection            │
+│  🌲 Forest Cover Change        🌊 Coastal Erosion                   │
+│                                                                       │
+│  📊 50+ TB processed -  🎯 92% accuracy -  📈 37-year trend           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 🏙️ Urban & Smart City (6 Projects)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏢 Amsterdam Digital Twin    🚲 Mobility Analysis                  │
+│  🌳 Green Space Accessibility  🌡️ Urban Heat Island (Milan)         │
+│                                                                       │
+│  🏢 400+ buildings -  🚦 4,502 km roads -  🌲 1,073 parks             │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 🤖 AI & Machine Learning (6 Projects)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🧠 Satellite Deep Learning   🌊 Landslide Detection                │
+│  🌾 Crop Yield Forecast       🏔️ Flood Risk Mapping                 │
+│                                                                       │
+│  🎯 94% IoU -  📊 88% accuracy -  📈 85% R² -  🗺️ 92% AUC              │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 🌐 WebGIS & Full-Stack (5 Projects)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  💻 Personal Website          📊 Geospatial Dashboard               │
+│  🌍 3D Globe Visualization    🗺️ WMS Proxy                          │
+│                                                                       │
+│  🚀 99.9% uptime -  ⚡ <100ms API -  🎮 60 FPS -  🔌 RESTful           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 🌱 Environmental & Humanitarian (4 Projects)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🌸 Zan Digital Sanctuary     💨 Air Quality Monitoring             │
+│  🦋 Biodiversity Index        💧 Water Quality                      │
+│                                                                       │
+│  🤝 5.5M calls -  📊 6 stations -  🌿 98 species -  🎯 94% accuracy    │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 Project Impact Metrics
+## 📈 Project Impact Metrics
 
 <div align="center">
 
@@ -106,106 +147,39 @@ Oct 2025   ███████████████████████
 | **Code Contributors** | 8 |
 | **Documentation Coverage** | 85% |
 | **Test Coverage** | 72% |
+| **Monthly Active Users** | 10,000+ |
 
 </div>
 
 ---
 
-## 🌟 Project Showcase by Category
+## 🛠️ Technology Radar
 
-### 🌍 **Earth Observation & Remote Sensing** (8 Projects)
+### 📊 **Skill Proficiency Matrix**
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🛰️ Sentinel-2        🔥 Burned Area      🌲 Forest Cover      🌊 Coastal   │
-│     Time Series        Detection           Change Analysis      Erosion     │
-│     [Python]           [QGIS Plugin]       [GRASS GIS]          [GEE]       │
-│                                                                             │
-│  📊 50+ TB processed  🎯 92% accuracy     📈 37-year trend     🗺️ 10+ maps  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Technology | Proficiency | Experience |
+|:-----------|:------------|:-----------|
+| Python / GeoPandas | ████████████████████ 95% | 5+ years |
+| QGIS / GRASS GIS | ██████████████████░░ 90% | 4+ years |
+| PostGIS / GeoServer | ████████████████░░░░ 85% | 3+ years |
+| PyTorch / TensorFlow | ██████████████░░░░░░ 75% | 2+ years |
+| React / Angular | ██████████████░░░░░░ 70% | 2+ years |
+| Docker / K8s | ████████████░░░░░░░░░░ 60% | 1+ years |
 
-### 🏙️ **Urban & Smart City** (6 Projects)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🏢 Digital Twin      🚲 Mobility         🌳 Green Space        🌡️ UHI      │
-│     Amsterdam          Analysis            Accessibility        Milan       │
-│     [PostGIS]          [OSMnx]             [NetworkX]           [LST]       │
-│                                                                             │
-│  🏢 400+ buildings    🚦 4,502 km roads   🌲 1,073 parks       🔥 2.5°C ▲   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🤖 **AI & Machine Learning** (6 Projects)
+### 🌟 **Core Expertise**
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🧠 Deep Learning     🌊 Landslide        🌾 Crop Yield        🏔️ Flood     │
-│     Satellite          Detection           Forecast             Risk        │
-│     [PyTorch]          [XGBoost]           [LSTM]               [RF]        │
-│                                                                             │
-│  🎯 94% IoU           📊 88% accuracy     📈 85% R²           🗺️ 92% AUC   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🌐 **WebGIS & Full-Stack** (5 Projects)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  💻 Personal         📊 Geospatial        🌍 3D Globe          🗺️ WMS      │
-│     Website            Dashboard            Visualization        Proxy      │
-│     [React]            [React/D3]          [Three.js]           [FastAPI]  │
-│                                                                             │
-│  🚀 99.9% uptime      ⚡ <100ms API        🎮 60 FPS           🔌 RESTful   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🛠️ **Geospatial Libraries** (4 Projects)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  📐 SphereStats       🖼️ Raster Tools     📏 Vector Ops        🐍 GRASS    │
-│     Statistics          Processing          Geometry             Utils      │
-│     [NumPy/SciPy]       [Rasterio]          [Shapely]            [API]      │
-│                                                                             │
-│  ⭐ 1.2k downloads    🔧 15+ functions    📐 25+ ops           🤖 Auto     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🌱 **Environmental & Humanitarian** (4 Projects)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🌸 Zan Digital       💨 Air Quality       🦋 Biodiversity       💧 Water   │
-│     Sanctuary           Monitoring           Index                Quality   │
-│     [Flask]             [S5P]               [R]                  [S2]      │
-│                                                                             │
-│  🤝 5.5M calls        📊 6 stations        🌿 98 species        🎯 94% acc │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🚀 GitHub Activity Timeline
-
-### 📅 **2025-2026 Contribution Timeline**
-
-```
-2025                         2026
-Q1  Q2  Q3  Q4               Q1  Q2
-█   █   █   ████             ████
-12  18  24  86               42  (ongoing)
-```
-
-### 🔥 **Commit Heatmap**
-
-```
-    Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
-2025 ░░  ░░  ░░  ░░  ░░  ░░  ░░  ░░  ░░  ██  ██  ████
-2026 ██  ██  ██  ░░  ░░  ░░  ░░  ░░  ░░  ░░  ░░  ░░
-
-██ High Activity (20+ commits)  ░░ Low Activity (<5 commits)
+                    Earth Observation
+                         ▲
+                        /|\\
+                       / | \\
+                      /  |  \\
+            WebGIS ◄───  |  ───► AI/ML
+                      \\  |  /
+                       \\ | /
+                        \\|/
+                         ▼
+                  Urban Analytics
 ```
 
 ---
@@ -223,88 +197,18 @@ Q1  Q2  Q3  Q4               Q1  Q2
 
 ---
 
-## 🛠️ Technology Radar
+## 🚀 2026 Roadmap
 
-### 🌟 **Core Expertise**
-
-```
-                    Earth Observation
-                         ▲
-                        /|\
-                       / | \
-                      /  |  \
-            WebGIS ◄───  |  ───► AI/ML
-                      \  |  /
-                       \ | /
-                        \|/
-                         ▼
-                  Urban Analytics
-```
-
-### 📊 **Skill Proficiency Matrix**
-
-| Technology | Proficiency | Experience |
-|:-----------|:------------|:-----------|
-| Python/GeoPandas | ████████████████████ 95% | 5+ years |
-| QGIS/GRASS GIS | ████████████████████ 90% | 4+ years |
-| PostGIS/GeoServer | ██████████████████░░ 85% | 3+ years |
-| PyTorch/TensorFlow | ████████████████░░░░ 75% | 2+ years |
-| React/Angular | ████████████████░░░░ 70% | 2+ years |
-| Docker/K8s | ████████████░░░░░░░░ 60% | 1+ years |
+| Quarter | Focus | Deliverables |
+|:--------|:------|:-------------|
+| **Q1 2026** | Production Releases | GeoIntelliSpace v3.0 • Amsterdam Digital Twin v5.3 • 33 Repos |
+| **Q2 2026** | Mobile & Real-time | Zan Mobile App • SAR Flood Mapping • Research Paper |
+| **Q3 2026** | Research & Simulation | Global Forest Watch Clone • Urban Agent Model • Geospatial LLM |
+| **Q4 2026** | Community & Scale | Open Source Contribution • Conference • 50 Repositories |
 
 ---
 
-## 📈 Growth Trajectory
-
-### 📊 **Repository Growth Over Time**
-
-```
-33 |                                              ●
-30 |                                          ●
-27 |                                      ●
-24 |                                  ●
-21 |                              ●
-18 |                          ●
-15 |                      ●
-12 |                  ●
- 9 |              ●
- 6 |          ●
- 3 |      ●
- 0 |●●●●●●
-    2022  2023  2024  2025  2026
-```
-
-### ⭐ **Stars Accumulation**
-
-```
-150|                                              ●
-135|                                          ●
-120|                                      ●
-105|                                  ●
- 90|                              ●
- 75|                          ●
- 60|                      ●
- 45|                  ●
- 30|              ●
- 15|          ●
-  0|●●●●●●
-    2022  2023  2024  2025  2026
-```
-
----
-
-## 🎯 2026 Roadmap
-
-| Quarter | Focus | Deliverable |
-|:--------|:------|:------------|
-| **Q1 2026** | Production Releases | GeoIntelliSpace v3.0 · Amsterdam Digital Twin v5.3 · 33 Repositories |
-| **Q2 2026** | Mobile & Real-time | Zan Mobile App · SAR Flood Mapping · Research Paper |
-| **Q3 2026** | Research & Simulation | Global Forest Watch Clone · Urban Agent Model · Geospatial LLM |
-| **Q4 2026** | Community & Scale | Open Source Contribution · Conference · 50 Repositories |
-
----
-
-## 🌟 Open Source Contributions
+## 🌍 Open Source Contributions
 
 | Project | Contribution | Impact |
 |:--------|:-------------|:-------|
@@ -319,7 +223,7 @@ Q1  Q2  Q3  Q4               Q1  Q2
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/zafariabbas68?style=for-the-badge&logo=github&color=181717)](https://github.com/zafariabbas68)
+[![GitHub Followers](https://img.shields.io/github/followers/zafariabbas68?style=for-the-badge&logo=github)](https://github.com/zafariabbas68)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-website-gaz.onrender.com)
 
@@ -335,19 +239,19 @@ Q1  Q2  Q3  Q4               Q1  Q2
 
 <div align="center">
 
-### 🏆 **GitHub Badges**
-
-![Profile Views](https://komarev.com/ghpvc/?username=zafariabbas68&color=blue&label=Profile+Views&style=flat-square)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/zafariabbas68?style=flat-square&color=ea4aaa)
-
 ### 📊 **Weekly Development Breakdown**
 
 ```
 Coding        ████████████████████ 65%   (40 hrs/week)
-Research      ██████████ 20%              (12 hrs/week)
-Documentation ████████ 10%                (6 hrs/week)
-Community     ████ 5%                     (3 hrs/week)
+Research      ██████████░░░░░░░░░░ 20%   (12 hrs/week)
+Documentation ████████░░░░░░░░░░░░ 10%   (6 hrs/week)
+Community     ████░░░░░░░░░░░░░░░░  5%   (3 hrs/week)
 ```
+
+### 🌟 **Profile Statistics**
+
+![Profile Views](https://komarev.com/ghpvc/?username=zafariabbas68&color=blue&label=Profile+Views&style=flat-square)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/zafariabbas68?style=flat-square&color=ea4aaa)
 
 ---
 
@@ -357,10 +261,11 @@ Community     ████ 5%                     (3 hrs/week)
 
 ---
 
-**Last Updated**: March 2026  
+**Last Updated**: May 2026  
 **Portfolio**: [personal-website-gaz.onrender.com](https://personal-website-gaz.onrender.com)  
-**GitHub**: [github.com/zafariabbas68](https://github.com/zafariabbas68)  
-**Total Impact**: 33 Repositories | 128 Stars | 2,500+ Commits | 5.5M+ Lives Touched
+**GitHub**: [github.com/zafariabbas68](https://github.com/zafariabbas68)
+
+**Total Impact**: 33 Repositories • 128 Stars • 2,500+ Commits • 5.5M+ Lives Touched
 
 *From Satellite to Solution — Bridging Earth Observation with Actionable Intelligence*
 
