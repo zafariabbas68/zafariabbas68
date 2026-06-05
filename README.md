@@ -2,7 +2,7 @@
 # 🌍 Ghulam Abbas Zafari
 
 ### MSc Geoinformatics Engineering · Geospatial AI & Earth Observation Specialist
-**Politecnico di Milano** · 🎓 Graduated October 2025 · 📍 Milan, Italy
+**Politecnico di Milano** · 🎓 Graduated Oct 2025 · 📍 Milan, Italy
 
 <p align="left">
   <a href="https://personal-website-gaz.onrender.com"><img src="https://img.shields.io/badge/🌐_Portfolio-1a237e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -10,97 +10,98 @@
   <a href="mailto:ghulamabbas.zafari@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> 🛰️ *“Every pixel tells a story of our changing planet. My mission is to decode these stories through machine learning and transform them into actionable intelligence for sustainable decision-making.”*
+> 🛰️ *“Every pixel tells a story of our changing planet. My mission is to decode these stories through rigorous machine learning and transform Earth Observation data into actionable intelligence for sustainable decision-making.”*
 
 ---
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=c9d1d9&count_private=true" width="48%" alt="Ghulam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9" width="48%" alt="Ghulam's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafariabbas68&theme=dark&background=0D1117&fire=FF5A5F" width="100%" alt="Ghulam's Streak Stats" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Geospatial & EO</h3>
-      <ul>
-        <li><b>GIS Platforms:</b> QGIS, GRASS GIS, ArcGIS Pro</li>
-        <li><b>Spatial DB & Servers:</b> PostGIS, GeoServer</li>
-        <li><b>Libraries:</b> GeoPandas, OSMnx, NetworkX, Rasterio, Folium</li>
-        <li><b>Data sources:</b> Sentinel-2, Landsat, SAR, Vector Tiles</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Full-Stack</h3>
-      <ul>
-        <li><b>Languages:</b> Python, JavaScript, TypeScript, SQL, R</li>
-        <li><b>AI/ML Frameworks:</b> PyTorch, TensorFlow, Scikit-learn</li>
-        <li><b>WebGIS Development:</b> Leaflet, Angular, FastAPI, Flask, Plotly</li>
-        <li><b>DevOps:</b> Docker, Kubernetes, Git, CI/CD pipelines</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Featured Projects
-
-### 🌍 Earth Observation & Machine Learning
-* **🔥 Burned Area Detector (QGIS Plugin)**
-    * *Tech:* Python, QGIS API, Fuzzy Logic, Sentinel-2 Imagery
-    * *Impact:* Automated wildfire scar mapping plugin with over 500+ downloads. 🎯 92% validated accuracy.
-* **🧠 Satellite Deep Learning Pipelines**
-    * *Tech:* PyTorch, Rasterio, GeoPandas
-    * *Impact:* Landslide detection and crop yield forecasting models achieving a 94% IoU score.
-
-### 🏙️ Urban Analytics & WebGIS
-* **🛰️ GeoIntelliSpace™ & Amsterdam Digital Twin**
-    * *Tech:* Angular, FastAPI, PostGIS, GeoServer, Leaflet, Plotly
-    * *Impact:* Interactive smart city platforms rendering 400+ 3D buildings and urban heat island tracking at 60 FPS.
-* **🚲 Amsterdam Mobility Analyzer**
-    * *Tech:* OSMnx, NetworkX, DBSCAN, Folium
-    * *Impact:* Network routing and green space accessibility modeling across 4,500+ km of transit data.
-
-### 🌱 Environmental & Humanitarian Tech
-* **🌸 Zan Digital Sanctuary**
-    * *Tech:* Flask, Bootstrap, Python API
-    * *Impact:* Secure humanitarian platform managing over 5.5M+ calls and supporting 10,000+ monthly active users.
-
----
-
-## 🚀 2026 Roadmap & Focus
-
-
-```
-
-🎯 Q1: Production Releases ──> 📱 Q2: Mobile & SAR Integration ──> 🤖 Q3: Geospatial LLMs ──> 👥 Q4: Open Source Scale
-
-```
-
-* **Current Focus:** Developing real-time Synthetic Aperture Radar (SAR) flood mapping pipelines.
-* **Open Source:** Proud contributor to the broader ecosystem (**QGIS**, **OSMnx**, and **GeoPandas**).
-
----
-
-## 📬 Let's Collaborate
-
-I am always looking to collaborate on cutting-edge **Earth Observation**, **Climate-Tech**, and **WebGIS** architecture.
+## ⚡ Technical Core
 
 ```text
-🤝 Research: AI/ML for Remote Sensing  |  💻 Development: Automated Spatial Pipelines
-💼 Consulting: Technical Architecture |  🌱 Mentorship: Open Source & Student Workshops
+       [ Earth Observation ] 🚀 Sentinel, Landsat, SAR Data Processing
+                ▲
+                │
+ [ WebGIS ] ◄───┼───► [ Geospatial AI ] 🧠 Deep Learning, Computer Vision, PyTorch
+                │
+                ▼
+       [ Urban Analytics ] 🏙️ Smart Cities, PostGIS, Network Routing
 
 ```
+
+### 🛠️ Skill Matrix & Tools
+
+* **Languages & Core:** Python (GeoPandas, Shapely, Rasterio), SQL (PostGIS), JavaScript/TypeScript, R, HTML/CSS
+* **Spatial Infrastructure:** QGIS, GRASS GIS, GeoServer, OpenStreetMap (OSMnx, NetworkX)
+* **AI/ML & Frameworks:** PyTorch, TensorFlow, Scikit-learn, DBSCAN, Cluster Analysis
+* **Full-Stack WebGIS:** FastAPI, Flask, Leaflet.js, Angular, Plotly, Bootstrap
+* **DevOps & Cloud:** Docker, Kubernetes, Git Architecture, CI/CD Automations
+
+---
+
+## 🏆 Featured Geospatial Engineering Projects
+
+### 🌍 Earth Observation & Remote Sensing
+
+* **🔥 Burned Area Detector (QGIS Plugin)**
+* *Context:* Professional-grade spatial plugin built for automated ecosystem monitoring.
+* *Stack:* `Python` `QGIS API` `Fuzzy Logic` `Sentinel-2`
+* *Metrics:* ⭐ 12 Stars • 500+ Downloads • 🎯 92% validated classification accuracy.
+
+
+* **🧠 Satellite Deep Learning Pipelines**
+* *Context:* End-to-end framework processing massive satellite imagery arrays for feature extraction.
+* *Stack:* `PyTorch` `Rasterio` `GeoPandas` `Scikit-learn`
+* *Metrics:* 🎯 94% IoU on Landslide Detection • 88% accuracy on Crop Yield Forecasting.
+
+
+
+### 🏙️ Smart City & Urban Mobility
+
+* **🏙️ Amsterdam Digital Twin (v5.3) & GeoIntelliSpace™**
+* *Context:* Advanced WebGIS environments built to serve complex 3D urban analytics seamlessly.
+* *Stack:* `Angular` `FastAPI` `PostGIS` `GeoServer` `Leaflet` `Plotly`
+* *Metrics:* Smooth 60 FPS rendering • 20+ real-time environmental plots • [Live Demo](https://personal-website-gaz.onrender.com).
+
+
+* **🚲 Amsterdam Mobility & Transit Analyzer**
+* *Context:* Network graph optimization and urban heat island correlation analysis.
+* *Stack:* `OSMnx` `NetworkX` `GeoPandas` `DBSCAN`
+* *Metrics:* Modeled 4,500+ km of road networks and 3,000+ public transit access points.
+
+
+
+### 🌱 Environmental & Humanitarian Impact
+
+* **🌸 Zan Digital Sanctuary**
+* *Context:* High-availability humanitarian platform securing public support resources.
+* *Stack:* `Flask` `Bootstrap` `Python REST APIs`
+* *Metrics:* 🚀 99.9% Uptime • 5.5M+ API Calls handled • 10,000+ Monthly Active Users.
+
+
+
+---
+
+## 📂 Repository & Resource Distribution
+
+| Category | Repository Count | Core Technical Focus |
+| --- | --- | --- |
+| 📡 **Earth Observation & Remote Sensing** | 8 Projects | Sentinel/Landsat chains, SAR flood routing, time-series |
+| 🏙️ **Urban Analytics & Smart Cities** | 6 Projects | Digital twins, microclimate indexing, network graphs |
+| 🤖 **Artificial Intelligence & ML** | 6 Projects | Deep learning, computer vision, spatial clustering |
+| 🌐 **WebGIS & Full-Stack Apps** | 5 Projects | High-performance spatial APIs, interactive web maps |
+| 🛠️ **Geospatial Tools & Libraries** | 4 Projects | Specialized automation extensions, custom algorithms |
+| 🌱 **Humanitarian & Climate Response** | 4 Projects | Scale data tracking, public health & sanctuary tech |
+
+---
+
+## 🚀 Professional Roadmap
+
+* **Q1-Q2:** Scaled real-time SAR data integrations and launched **Amsterdam Digital Twin v5.3**.
+* **Q3-Q4:** Advancing research in **Geospatial LLMs** (Large Language Models for spatial querying) and open-source contributions to `GeoPandas` and `OSMnx`.
+
+---
+
+## 📬 Connect & Collaborate
+
+```text
+🤝 Research: Deep Learning for Earth Observation  |  💻 Dev: High-Scale Spatial Pipelines
+💼 Consulting: WebGIS & Cloud Architecture      |  🌱 Community: Open Source & Mentorship
