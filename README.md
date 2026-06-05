@@ -32,75 +32,68 @@ I build geospatial systems, remote sensing workflows, and AI-driven environmenta
 
 ---
 
-## Signature Work
+## Visual Identity
 
-<div align="center">
+> **Recommended graphics to add**
+>
+> - A **donut chart** for portfolio focus.
+> - A **radar chart** for technical strengths.
+> - A **simple pipeline diagram** for your workflow.
+> - A **clean timeline strip** for milestones.
 
-| Focus | What I Build | Tools |
-|:---|:---|:---|
-| Earth Observation | Land cover, burned area, and satellite time-series analysis | Python, Sentinel-2, QGIS |
-| WebGIS Systems | Interactive spatial apps and dashboards | Flask, Leaflet, GeoServer, PostGIS |
-| AI for Geography | Detection, classification, and prediction models | PyTorch, TensorFlow, FastAPI |
-| Urban Intelligence | Mobility, smart city, and accessibility studies | OSMnx, GeoPandas, NetworkX |
-
-</div>
+If you want them directly inside the README, I can place them as image blocks once you generate or upload the PNGs.
 
 ---
 
-## Current Stack
+## Suggested Diagram Sections
+
+### 1) Portfolio Focus
+Use a donut chart to show how your work is distributed across:
+- Earth Observation
+- WebGIS
+- AI/ML
+- Urban Analytics
+- Open Source
+
+### 2) Skill Radar
+Use a radar chart for:
+- Python
+- QGIS
+- PostGIS
+- WebGIS
+- AI/ML
+- DevOps
+
+### 3) Geospatial Workflow
+Use a flow diagram like:
 
 ```text
-Core          Python · GeoPandas · QGIS · PostGIS
-Web           Flask · FastAPI · Leaflet · GeoServer
-AI/ML         PyTorch · TensorFlow · scikit-learn
-Analysis      Rasterio · OSMnx · NetworkX · Folium
-Deployment    Docker · CI/CD · Cloud Hosting
+Satellite Data → Preprocess → Modeling → Mapping → Decision Support → Impact
 ```
 
----
-
-## Selected Projects
-
-- **Burned Area Detector** — QGIS plugin for wildfire impact analysis.
-- **GeoIntelliSpace™** — geospatial intelligence platform with live spatial layers.
-- **GeoVision Dashboard** — Earth observation dashboard for exploratory analysis.
-- **Amsterdam Digital Twin** — smart city visualization and planning environment.
-- **Zan Digital Sanctuary** — humanitarian tech platform supporting high-volume usage.
-- **Amsterdam Mobility** — urban transport network analysis and accessibility mapping.
+### 4) Milestone Timeline
+Use a compact horizontal timeline for:
+- MSc Graduation
+- Burned Area Detector
+- Amsterdam Digital Twin
+- Zan Platform Launch
 
 ---
 
-## What I Care About
+## Ready-to-use layout
 
-- Building useful geospatial products, not just prototypes.
-- Making remote sensing data understandable and actionable.
-- Combining rigorous analysis with clean, modern interfaces.
-- Shipping open-source tools that can be reused in research and practice.
-
----
-
-## Milestones
-
-| Milestone | Detail |
-|:---|:---|
-| MSc Graduation | Politecnico di Milano, October 2025 |
-| Burned Area Detector v1.0 | Professional QGIS plugin release |
-| Amsterdam Digital Twin v5.3 | Smart city visualization platform |
-| Zan Platform Launch | Humanitarian platform at scale |
-
----
-
-## Contact
-
-- Portfolio: [personal-website-gaz.onrender.com](https://personal-website-gaz.onrender.com)
-- LinkedIn: [ghulam-abbas-zafari-b94105248](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
-- GitHub: [zafariabbas68](https://github.com/zafariabbas68)
-- Email: [ghulamabbas.zafari@gmail.com](mailto:ghulamabbas.zafari@gmail.com)
-
----
+```md
+## 📊 Visual Highlights
 
 <div align="center">
 
-> “Every pixel tells a story of our changing planet.”
+<!-- Portfolio Focus -->
+<!-- Insert donut chart here -->
+
+<!-- Skill Radar -->
+<!-- Insert radar chart here -->
+
+<!-- Workflow Diagram -->
+<!-- Insert flowchart here -->
 
 </div>
