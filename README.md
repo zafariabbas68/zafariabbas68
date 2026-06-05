@@ -14,15 +14,17 @@
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=c9d1d9&count_private=true" width="48%" alt="Ghulam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9" width="48%" alt="Ghulam's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafariabbas68&theme=dark&background=0D1117&fire=FF5A5F" width="100%" alt="Ghulam's Streak Stats" />
 </p>
 
 ---
