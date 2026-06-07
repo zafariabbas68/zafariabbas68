@@ -32,7 +32,7 @@ I'm a **Geoinformatics Engineer** with an MSc from **Politecnico di Milano** (20
       <td align="center"><b>🎓 Education</b><br/>MSc + BEng</td>
       <td align="center"><b>📍 Location</b><br/>Milan, Italy</td>
       <td align="center"><b>🌍 Languages</b><br/>3 (EN, IT, FA)</td>
-      <td align="center"><b>📁 Repositories</b><br/>15+</td>
+      <td align="center"><b>📁 Repositories</b><br/>43+</td>
       <td align="center"><b>🚀 Deployments</b><br/>12+ Live</td>
     </tr>
   </table>
