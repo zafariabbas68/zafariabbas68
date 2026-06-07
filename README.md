@@ -1,327 +1,353 @@
-# 🌍 Ghulam Abbas Zafari – Geoinformatics Engineering Portfolio
+
+
+# 🌍 Ghulam Abbas Zafari
+## *Geoinformatics Engineer | Earth Observation Specialist | Full-Stack Geospatial Developer*
 
 <div align="center">
   
 [![MSc](https://img.shields.io/badge/MSc-GEOINFORMATICS%20ENGINEERING-1a5f7a?style=for-the-badge)](https://www.polimi.it/)
 [![Politecnico](https://img.shields.io/badge/POLITECNICO-MILANO-0b4b5c?style=for-the-badge)](https://www.polimi.it/)
 [![Python](https://img.shields.io/badge/PYTHON-EXPERT-3776AB?style=for-the-badge&logo=python)](https://python.org)
-[![GIS](https://img.shields.io/badge/GIS-SPECIALIST-589632?style=for-the-badge&logo=qgis)](https://qgis.org)
-
-*From satellite to sovereignty — mapping our shared future*
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ghulam-abbas-zafari-b94105248)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/zafariabbas68)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=google-chrome)](https://personal-website-gaz.onrender.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:ghalambabas.zafari@gmail.com)
+[![FastAPI](https://img.shields.io/badge/FASTAPI-PRO-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+[![PostGIS](https://img.shields.io/badge/POSTGIS-ADVANCED-4169E1?style=for-the-badge&logo=postgresql)](https://postgis.net)
+[![QGIS](https://img.shields.io/badge/QGIS-PLUGIN%20AUTHOR-589632?style=for-the-badge&logo=qgis)](https://qgis.org)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 **Professional Profile**
 
-I'm a **Geoinformatics Engineer** with an MSc from Politecnico di Milano (2023-2025), specializing in **GIS, Remote Sensing, and Machine Learning** for environmental monitoring and Earth Observation. My work bridges the gap between satellite data and actionable intelligence, enabling data-driven decisions for climate resilience, urban planning, and sustainable development.
+> *"From satellite to sovereignty — mapping our shared future"*
 
-### 🎓 Education
+I'm a **Geoinformatics Engineer** with an MSc from **Politecnico di Milano** (2023-2025), specializing in **GIS, Remote Sensing, and Machine Learning** for environmental monitoring and Earth Observation. My work bridges satellite data and actionable intelligence, enabling data-driven decisions for climate resilience, urban planning, and sustainable development.
+
+---
+
+## 📊 **Quick Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🎓 Education</b><br/>MSc + BEng</td>
+      <td align="center"><b>📍 Location</b><br/>Milan, Italy</td>
+      <td align="center"><b>🌍 Languages</b><br/>3 (EN, IT, FA)</td>
+      <td align="center"><b>📁 Repositories</b><br/>15+</td>
+      <td align="center"><b>🚀 Deployments</b><br/>12+ Live</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🗺️ **Featured Projects — Click to Explore**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ GeoIntelliSpace™</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen" />
+        <img src="https://img.shields.io/badge/Performance-0.12ms-blue" />
+      </div>
+      <p align="center"><i>Production-grade geospatial intelligence platform</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/GeoIntelliSpace-PLATFORM">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+        <a href="https://geointellispace-platform.onrender.com">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>XML/GML validation · XSLT transformation · PostGIS · GeoServer · 38+ test files · Dutch RD New</strong></p>
+      <details>
+        <summary>📋 Key Features</summary>
+        <ul>
+          <li>✅ XML/GML validation: <strong>0.12ms</strong></li>
+          <li>✅ XSLT transformation: <strong>0.21ms</strong></li>
+          <li>✅ PostGIS spatial database</li>
+          <li>✅ GeoServer WMS/WFS services</li>
+          <li>✅ Dutch geo-standards (EPSG:28992)</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Burned Area Detector</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-QGIS_Plugin-blue" />
+        <img src="https://img.shields.io/badge/Rating-★★★★★-gold" />
+      </div>
+      <p align="center"><i>Professional QGIS plugin for wildfire analysis</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/Burned-area-detection">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+        <a href="https://plugins.qgis.org/">
+          <img src="https://img.shields.io/badge/🔌_Install-blue?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>7 professional tabs · Fuzzy logic · USGS severity · Batch processing · Validation matrix</strong></p>
+      <details>
+        <summary>📋 Key Features</summary>
+        <ul>
+          <li>✅ Burned area detection (fuzzy logic)</li>
+          <li>✅ Burn severity classification (7 classes)</li>
+          <li>✅ Validation with confusion matrix</li>
+          <li>✅ SCL cloud/water masking</li>
+          <li>✅ Batch processing support</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 AgriVision Hub</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen" />
+        <img src="https://img.shields.io/badge/Processing-3s-blue" />
+      </div>
+      <p align="center"><i>Crop health monitoring from drone/RGB imagery</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/AgriVision-Hub---Geospatial-Crop-Health-Monitoring-Platform">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+        <a href="https://agrivision-frontend.onrender.com">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>GRVI calculation · Health classification · Leaflet maps · Async processing</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌍 PCS-View</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen" />
+        <img src="https://img.shields.io/badge/Formats-7+-blue" />
+      </div>
+      <p align="center"><i>Professional point cloud viewer (Stonex compatible)</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/PCS-View-Point-Cloud-Share-Viewer-">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+        <a href="https://pcs-view.onrender.com">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-blue?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>LAS/LAZ/E57/PLY · Distance measurement · Volume calc · CAD export</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ Amsterdam Digital Twin</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Version-v5.3-blue" />
+        <img src="https://img.shields.io/badge/Visuals-20+-brightgreen" />
+      </div>
+      <p align="center"><i>Smart City Platform with Monte Carlo uncertainty</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/Amsterdam-Digital-Twin---Smart-City-Platform">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>3D city model · Traffic simulation · Air quality · Bootstrap CI · NBS prioritization</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌡️ UHI Analysis – Lombardy</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Result-4.8°C-red" />
+        <img src="https://img.shields.io/badge/Area-238.75km²-blue" />
+      </div>
+      <p align="center"><i>Urban Heat Island analysis with mitigation priorities</i></p>
+      <p align="center">
+        <a href="https://github.com/zafariabbas68/Urban-Heat-Island-Analysis">
+          <img src="https://img.shields.io/badge/📂_Repository-gray?style=for-the-badge" />
+        </a>
+      </p>
+      <p><strong>Landsat LST · Land cover (30m) · Population vulnerability · NBS mapping</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 **Research & Academic Work**
+
+| Project | Description | Key Finding |
+|---------|-------------|-------------|
+| 📄 **MSc Thesis** | Land Cover Dynamics in Italy (1985-2022) | 79% accuracy Markov Chain → 2032 |
+| 🇧🇴 **Bolivia NDVI** | 20-year vegetation time series | Amazon: 0.85 max NDVI |
+| 🇬🇧 **UK PM2.5** | 10km grid sensitivity analysis | ±21% uncertainty, 0.433 µg/m³ reduction |
+| 🇪🇺 **EuroPovertyMapper** | 327 NUTS2 regions poverty risk | 21.1% avg, North-South divide |
+| 🚲 **Amsterdam Mobility** | 4,502 km roads, 1,481 km bike | 0.889 network density |
+| ✈️ **Flight Analysis** | Graph theory + environmental economics | $37M profit, 7.8M kg CO₂ |
+
+---
+
+## 🛠️ **Technology Stack — Visual Summary**
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="3">🐍 Backend & Processing</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/GRASS_GIS-589632?logo=grassgis&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <th colspan="3">🗄️ Database & Geospatial</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/PostGIS-4169E1?logo=postgresql&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/GeoServer-2C8E3E?logo=geoserver&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=google&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/GeoPandas-139C5A?logo=pandas&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Open3D-4B8BBE?logo=python&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <th colspan="3">🎨 Frontend & Visualization</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/OpenLayers-1F6B3E?logo=openlayers&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <th colspan="3">☁️ DevOps & Deployment</th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black" /></td>
+      <td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 **Impact Metrics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🚀 Live Deployments</b><br/>12+</td>
+      <td align="center"><b>📊 Total Repositories</b><br/>15+</td>
+      <td align="center"><b>🛰️ Satellites Processed</b><br/>Landsat, Sentinel, MODIS</td>
+      <td align="center"><b>🌍 Countries Covered</b><br/>Italy, USA, UK, Bolivia, Netherlands</td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚡ Fastest Validation</b><br/>0.12ms</td>
+      <td align="center"><b>🔥 Largest Dataset</b><br/>38+ test files</td>
+      <td align="center"><b>📐 Highest Resolution</b><br/>30m (Landsat/LULC)</td>
+      <td align="center"><b>🔬 Models Deployed</b><br/>Markov Chain, Fuzzy Logic, DBSCAN</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 **Key Achievements**
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>MSc with Honors</strong> — Politecnico di Milano, Geoinformatics Engineering</td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td><strong>MSc Thesis</strong> — Land cover analysis with 79% accuracy Markov Chain model</td>
+  </tr>
+  <tr>
+    <td>🔌</td>
+    <td><strong>QGIS Plugin Author</strong> — Burned Area Detector in official repository</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Production Deployment</strong> — 12+ full-stack applications on Render</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>International Experience</strong> — Afghanistan → Italy, cross-cultural collaboration</td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td><strong>Research Output</strong> — 15+ technical repositories, 20+ professional visualizations</td>
+  </tr>
+</table>
+
+---
+
+## 🎓 **Education & Certifications**
+
+```mermaid
+timeline
+    title Education Journey
+    2010-2014 : BEng Geodesy
+              : Kabul Polytechnic University
+    2018-2021 : Cadastral Survey Engineer
+              : Ministry of Urban Development
+    2023-2025 : MSc Geoinformatics Engineering
+              : Politecnico di Milano
+              : Thesis: Land Cover Dynamics in Italy
+    2025      : Graduation
+              : Specialization: EO & ML
+```
 
 | Degree | Institution | Year | Focus |
 |--------|-------------|------|-------|
-| **MSc in Geoinformatics Engineering** | Politecnico di Milano, Italy | 2023-2025 | GIS, Remote Sensing, ML for EO |
+| **MSc in Geoinformatics Engineering** | Politecnico di Milano | 2023-2025 | GIS, Remote Sensing, ML for EO |
 | **BEng in Geodesy** | Kabul Polytechnic University | 2010-2014 | Surveying, Cartography, Geodesy |
 
-### 📄 MSc Thesis
+---
+
+## 📄 **MSc Thesis — Key Insights**
 
 > **"Land Cover Dynamics and Transitions in Italy: Multi-Temporal Analysis with Global Datasets"**
-> 
-> *Supervisor: Prof. Daniele Oxoli | Graduation: October 2025*
-> 
-> Analyzed land cover changes (1985-2022) using ESA CCI and GLC_FCS30D datasets, implementing Markov Chain modeling with 79% accuracy and projections to 2032.
+
+| Metric | Value |
+|--------|-------|
+| **Time Period** | 1985-2022 |
+| **Datasets** | ESA CCI + GLC_FCS30D |
+| **Resolution** | 300m / 30m |
+| **Model** | Constrained Markov Chain |
+| **Accuracy** | 79% |
+| **Projection** | 2032 |
 
 ---
 
-## 🛠️ Technical Arsenal
-
-### GIS & Remote Sensing
-```
-ArcGIS Pro • QGIS • GRASS GIS • ENVI • SNAP • Google Earth Engine • PostGIS • GeoServer • Leaflet
-```
-
-### Programming & Development
-```
-Python (Pandas, Scikit-learn) • SQL • JavaScript • Git • Docker • FastAPI • Flask • Angular • Firebase • PostgreSQL
-```
-
-### Surveying & Fieldwork
-```
-GNSS • Total Stations • Drone Photogrammetry • RTK Surveys • Cartographic Production
-```
-
-### Soft Skills
-```
-Teamwork • Problem Solving • Communication • Critical Thinking • Time Management
-```
-
-### Languages
-| Language | Proficiency |
-|----------|-------------|
-| Persian | Native |
-| English | Fluent |
-| Italian | B1 (actively improving) |
-
----
-
-## 📂 Featured Projects
-
-### 🛰️ [GeoIntelliSpace™](https://github.com/zafariabbas68/GeoIntelliSpace-PLATFORM)
-*Geospatial Intelligence & Earth Observation Platform*
-
-Production-grade platform with XML/GML validation (0.12ms), XSLT transformation (0.21ms), PostGIS integration, and GeoServer WMS/WFS services. Includes 38+ test files with Dutch geo-standards (RD New, EPSG:28992).
-
-**Stack:** Flask, lxml, PostGIS, GeoServer | [Live Demo](https://geointellispace-platform.onrender.com)
-
----
-
-### 🔥 [Burned Area Detector](https://github.com/zafariabbas68/Burned-area-detection)
-*Professional QGIS Plugin for Wildfire Analysis*
-
-Advanced QGIS plugin for Sentinel-2 burned area detection using fuzzy logic and region growing algorithms. Features 7 professional tabs including burn severity classification (USGS dNBR), validation with confusion matrix, and batch processing.
-
-**Stack:** Python, QGIS, GDAL | [Install from QGIS Plugin Manager](https://plugins.qgis.org/)
-
----
-
-### 🌾 [AgriVision Hub](https://github.com/zafariabbas68/AgriVision-Hub---Geospatial-Crop-Health-Monitoring-Platform)
-*Geospatial Crop Health Monitoring Platform*
-
-Full-stack platform for agricultural NDVI analysis from drone/RGB imagery. Real-time vegetation health classification with interactive Leaflet maps and automated agronomic recommendations.
-
-**Stack:** FastAPI, Python, Leaflet | [Live Demo](https://agrivision-frontend.onrender.com)
-
----
-
-### 🌍 [PCS-View](https://github.com/zafariabbas68/PCS-View-Point-Cloud-Share-Viewer-)
-*Professional Point Cloud Platform*
-
-Browser-based point cloud viewer supporting LAS, LAZ, E57, PLY formats with Three.js rendering. Features distance measurement, volume calculation, and CAD export (TXT format). Stonex-compatible.
-
-**Stack:** FastAPI, Three.js, Open3D | [Live Demo](https://pcs-view.onrender.com)
-
----
-
-### 🏙️ [Amsterdam Digital Twin](https://github.com/zafariabbas68/Amsterdam-Digital-Twin---Smart-City-Platform)
-*Smart City Platform v5.3*
-
-Production-ready digital twin with 3D city model (400+ buildings), real-time traffic simulation (672 measurements), and environmental monitoring (576 AQ measurements). Includes Bootstrap CI, Monte Carlo uncertainty, and 20 publication-quality visualizations.
-
-**Stack:** Python, GeoPandas, PostGIS, Plotly | [Interactive Dashboard](amsterdam_interactive_dashboard.html)
-
----
-
-### 🇧🇴 [Bolivia NDVI Animation](https://github.com/zafariabbas68/Bolivia-NDVI-Time-Series-Animation)
-*Monthly Vegetation Health Time Series (2000-2020)*
-
-Interactive animation showing monthly vegetation health across Bolivia using MODIS satellite data. Features seasonal pattern analysis across Amazon Basin, Altiplano, and Chaco regions.
-
-**Stack:** Google Earth Engine, Python, JavaScript | [Live Viewer](https://zafariabbas68.github.io/Bolivia-NDVI-Time-Series-Animation)
-
----
-
-### 🌡️ [Urban Heat Island Analysis](https://github.com/zafariabbas68/Urban-Heat-Island-Analysis)
-*Lombardy Region, Italy*
-
-Comprehensive UHI analysis integrating land cover (30m), Landsat LST, demographic vulnerability, and NBS prioritization. Key finding: 4.8°C urban-rural temperature difference with 71.9% of region experiencing "Very High UHI."
-
-**Stack:** Python, rasterio, QGIS | [View Report](Urban_heat_Island_for_Lombardy-2.pdf)
-
----
-
-### 🌊 [Strait of Hormuz Oil Flows](https://github.com/zafariabbas68/strait-of-hormuz-oil-flows)
-*Global Oil Trade Flow Visualization*
-
-Interactive animated map visualizing 20 million barrels/day through the world's most critical energy chokepoint. Features particle animations, Bezier flow paths, and EIA 2025 data.
-
-**Stack:** Leaflet.js, HTML5 Canvas | [Live Map](https://zafariabbas68.github.io/strait-of-hormuz-oil-flows)
-
----
-
-### 📊 [EuroPovertyMapper](https://github.com/zafariabbas68/EuroPovertyMapper)
-*European Poverty Risk Analysis*
-
-Comprehensive Python tool analyzing poverty risk across 327 NUTS2 regions using real-time Eurostat data. Features 10+ visualization types including choropleth maps, clustering, and hotspot analysis.
-
-**Stack:** Python, GeoPandas, Matplotlib, Folium | [View Maps](outputs/visualizations/)
-
----
-
-### 🚲 [Amsterdam Urban Mobility Analysis](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis)
-*Multimodal Transportation Infrastructure*
-
-Quantitative analysis of Amsterdam's mobility ecosystem: 4,502 km roads, 1,481 km cycling infrastructure, 3,177 transit stops, and network centrality analysis using DBSCAN hotspot detection.
-
-**Stack:** OSMnx, NetworkX, GeoPandas | [Interactive Report](amsterdam_mobility_report_railway.html)
-
----
-
-### ✈️ [Advanced Flight Route Analysis](https://github.com/zafariabbas68/Advanced-Flight-Route-Analysis-System)
-*Graph Theory + Environmental Economics*
-
-Multi-dimensional flight network analysis integrating graph theory, environmental economics, and spatial optimization. Total network profitability: $37M with 7.8M kg CO₂ emissions.
-
-**Stack:** Python, NetworkX, Plotly, Cartopy | [View Dashboard](figures_exports/comprehensive_static_analysis.png)
-
----
-
-### 🏢 [Manhattan Building Intelligence](https://github.com/zafariabbas68/Manhattan-Building-Intelligence-Advanced-Urban-Analysis)
-*Advanced Urban Analysis*
-
-Comprehensive analysis of 46,345 Manhattan building footprints with realistic height modeling using lognormal distributions. Features 3D visualizations, neighborhood analysis, and interactive maps.
-
-**Stack:** OSMnx, GeoPandas, Matplotlib | [3D View](visualizations/manhattan_3d_buildings.png)
-
----
-
-### 🇬🇧 [UK PM2.5 Sensitivity Analysis](https://github.com/zafariabbas68/uk-pm25-sensitivity-analysis)
-*Air Quality Modeling*
-
-10km resolution grid analysis of PM2.5 sensitivity to emissions reductions across UK (4,370 grid cells, 238,949 km²). Includes uncertainty quantification (±21%) and population-weighted benefits.
-
-**Stack:** GeoPandas, NumPy, Matplotlib | [View Maps](data/visualizations/)
-
----
-
-### 🛰️ [GeoVision Dashboard](https://github.com/zafariabbas68/GeoVision_Dashboard)
-*Earth Observation & Remote Sensing Dashboard*
-
-Full-stack Angular + FastAPI application for satellite tracking (ISS, Sentinel, Landsat), NDVI analysis, and weather monitoring. Features real-time satellite passes and interactive maps.
-
-**Stack:** Angular, FastAPI, Leaflet | [Live Demo](https://geovision-frontend-ikof.onrender.com)
-
----
-
-### 🌤️ [Altimetrica](https://github.com/zafariabbas68/Altimetrica)
-*Professional Weather Intelligence Platform*
-
-React + TypeScript weather platform with 5 interactive map layers (satellite, clouds, precipitation, wind, temperature), 5-day forecasts, air quality monitoring, and multi-language support.
-
-**Stack:** React, TypeScript, OpenWeatherMap | [Live Demo](https://altimetrica.onrender.com)
-
----
-
-### 🌍 [GeoInzicht Platform](https://github.com/zafariabbas68/GeoInzicht-Platform)
-*Geospatial Intelligence Platform*
-
-Django-based platform with Google Earth Engine integration (LST, NDVI, LULC, DEM), real-time IoT streaming, INSPIRE compliance, and Dutch geo-standards (BAG, AHN, TOP10NL).
-
-**Stack:** Django, GEE, OpenLayers, PostGIS | [View Demo](https://geoinzicht-platform.onrender.com)
-
----
-
-### 🇺🇸 [USA Environmental Monitoring](https://github.com/zafariabbas68/usa-environmental-monitoring)
-*Google Earth Engine Dashboard*
-
-Comprehensive environmental monitoring for USA including Alaska/Hawaii. Features NLCD land cover, MODIS LST, NDVI anomaly, drought severity, erosion risk, and urban heat island analysis.
-
-**Stack:** Google Earth Engine, Python, geemap | [View Maps](Mean%20Annual%20LST%20\(°C\).png)
-
----
-
-### 🔭 [Solar System Simulator Pro](https://github.com/zafariabbas68/-Solar-System-Simulator-Pro)
-*Astronomical Simulation & Visualization*
-
-Professional-grade solar system simulation with real NASA JPL data. Features N-body gravitational simulation, interactive 3D models, and 10-panel scientific dashboards.
-
-**Stack:** Python, Matplotlib, Plotly, Astropy | [3D Model](NASA_3D_SOLAR_SYSTEM.html)
-
----
-
-### 📊 [European Poverty Mapper](https://github.com/zafariabbas68/EuroPovertyMapper)
-*Socioeconomic Data Visualization*
-
-Eurostat data processor generating publication-ready choropleth maps of poverty risk across European NUTS2 regions. Includes temporal trends, inequality analysis, and hotspot detection.
-
-**Stack:** Python, GeoPandas, Seaborn, Folium | [View Dashboard](outputs/visualizations/comprehensive_dashboard.png)
-
----
-
-### 🌱 [Mediterranean Forest Cover Change](https://github.com/zafariabbas68/Mediterranean-forest-cover-change)
-*Land Cover Change Analysis (1985-2022)*
-
-GRASS GIS-based workflow analyzing forest cover dynamics in Italy using ESA CCI and GLC_FCS30D datasets. Includes transition matrices, persistence analysis, and Markov Chain projections.
-
-**Stack:** GRASS GIS, Python, Jupyter | [View Analysis](data/Landcover_change_transition.png)
-
----
-
-### 📍 [LinkedIn Job Scraper](https://github.com/zafariabbas68/LinkedIn-Job-Scraper)
-*GIS & Geospatial Job Automation*
-
-Automated scraper finding GIS/geospatial jobs in Italy using 30+ bilingual keywords. Features Excel export, deduplication, and cron automation.
-
-**Stack:** Python, Apify API, OpenPyXL | [Sample Output](jobs_italy.xlsx)
-
----
-
-### 🏙️ [Amsterdam Digital Twin](https://github.com/zafariabbas68/Amsterdam-Digital-Twin---Smart-City-Platform)
-*Smart City Platform v5.3*
-
-Production-ready digital twin with 3D city model (400+ buildings), real-time traffic simulation (672 measurements), and environmental monitoring (576 AQ measurements). Includes Bootstrap CI, Monte Carlo uncertainty, and 20 publication-quality visualizations.
-
-**Stack:** Python, GeoPandas, PostGIS, Plotly | [Interactive Dashboard](amsterdam_interactive_dashboard.html)
-
----
-
-### 📍 [Amsterdam Urban Mobility Analysis](https://github.com/zafariabbas68/Amsterdam-Urban-Mobility-Analysis)
-*Multimodal Transportation Infrastructure*
-
-Quantitative analysis of Amsterdam's mobility ecosystem: 4,502 km roads, 1,481 km cycling infrastructure, 3,177 transit stops, and network centrality analysis using DBSCAN hotspot detection.
-
-**Stack:** OSMnx, NetworkX, GeoPandas | [Interactive Report](amsterdam_mobility_report_railway.html)
-
----
-
-### 🇿🇦 [Zan - Afghan Women's Digital Sanctuary](https://github.com/zafariabbas68/Zan---Afghan-Women-s-Digital-Sanctuary)
-*Humanitarian Digital Platform*
-
-Protected digital sanctuary providing free access to education, health resources, legal rights, and anonymous support for Afghan women. Features quick exit (ESC key), safe mode disguise, and offline resources.
-
-**Stack:** Flask, HTML/CSS, JavaScript | [Live Demo](https://zan-afghan-women-s-digital-sanctuary.onrender.com)
-
----
-
-### 👨‍💻 [Personal Portfolio Website](https://github.com/zafariabbas68/Personal_Website_GAZ)
-*Professional Portfolio*
-
-Responsive personal portfolio showcasing GIS, remote sensing, and geospatial development expertise. Features interactive elements, EmailJS contact form, and Leaflet map integration.
-
-**Stack:** HTML/CSS/JS, EmailJS, Leaflet | [Live Site](https://personal-website-gaz.onrender.com)
-
----
-
-## 📊 GitHub Statistics
+## 🌐 **Live Demos — Quick Access**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&count_private=true&hide=prs&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zafariabbas68&theme=dark" width="48%" />
+  <table>
+    <tr>
+      <td><a href="https://geointellispace-platform.onrender.com"><img src="https://img.shields.io/badge/GeoIntelliSpace™-Live-brightgreen?style=for-the-badge" /></a></td>
+      <td><a href="https://agrivision-frontend.onrender.com"><img src="https://img.shields.io/badge/AgriVision_Hub-Live-brightgreen?style=for-the-badge" /></a></td>
+      <td><a href="https://pcs-view.onrender.com"><img src="https://img.shields.io/badge/PCS--View-Live-brightgreen?style=for-the-badge" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://altimetrica.onrender.com"><img src="https://img.shields.io/badge/Altimetrica-Live-brightgreen?style=for-the-badge" /></a></td>
+      <td><a href="https://geovision-frontend-ikof.onrender.com"><img src="https://img.shields.io/badge/GeoVision-Live-brightgreen?style=for-the-badge" /></a></td>
+      <td><a href="https://personal-website-gaz.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge" /></a></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 Key Achievements
-
-| Achievement | Description |
-|-------------|-------------|
-| **MSc with Honors** | Politecnico di Milano, Geoinformatics Engineering |
-| **Land Cover Analysis** | 79% accuracy Markov Chain model, projections to 2032 |
-| **QGIS Plugin Author** | Burned Area Detector published in official plugin repository |
-| **Full-Stack Developer** | 15+ production deployments on Render |
-| **Bilingual Technical** | English + Italian + Persian for international collaboration |
-| **Open Source Contributor** | Active in geospatial open-source community |
-
----
-
-## 📫 Connect With Me
+## 📫 **Connect & Collaborate**
 
 <div align="center">
   
@@ -338,15 +364,17 @@ Responsive personal portfolio showcasing GIS, remote sensing, and geospatial dev
 
 ---
 
-## 📝 License & Usage
+## 📝 **License**
 
-All projects in this portfolio are open-source under their respective licenses (primarily MIT or GPL). Feel free to fork, star, and use them in your own work. Attribution is appreciated but not required.
+All projects are open-source under MIT or GPL licenses unless otherwise specified.
 
 ---
 
 <div align="center">
   
 **⭐ Star this repository if you find my work valuable!**
+
+---
 
 *Built with ❤️ for Earth Observation and Geospatial Intelligence*
 
@@ -357,3 +385,6 @@ All projects in this portfolio are open-source under their respective licenses (
 © 2025 Ghulam Abbas Zafari | MSc Geoinformatics Engineering | Politecnico di Milano
 
 </div>
+
+
+
