@@ -10,7 +10,7 @@
   <a href="mailto:ghulamabbas.zafari@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-> 🛰️ *“Every pixel tells a story of our changing planet. My mission is to decode these stories through rigorous machine learning and transform Earth Observation data into actionable intelligence for sustainable decision-making.”*
+> 🛰️ *"Every pixel tells a story of our changing planet. My mission is to decode these stories through rigorous machine learning and transform Earth Observation data into actionable intelligence for sustainable decision-making."*
 
 ---
 
@@ -22,13 +22,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamabbaszafari&theme=github_dark" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghulamabbaszafari&theme=darkhub&no-frame=true&row=2&column=4" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghulamabbaszafari&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghulamabbaszafari&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghulamabbaszafari&theme=github_dark" width="32%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamabbaszafari&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%" />
+</p>
+
+---
+
+## 📈 Language & Repository Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamabbaszafari&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamabbaszafari&show_icons=true&count_private=true&hide=prs,issues&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
 </p>
 
 ---
@@ -43,7 +50,6 @@
                 │
                 ▼
        [ Urban Analytics ] 🏙️ Smart Cities, PostGIS, Network Routing
-
 ```
 
 ### 🛠️ Skill Matrix & Tools
@@ -81,7 +87,6 @@ def detect_burned_area(sentinel_image):
     # Fuzzy logic classification
     return burned_mask
 ```
-
 </td>
 <td width="50%">
 
@@ -101,7 +106,6 @@ class LandslideDetector(nn.Module):
     def forward(self, x):
         return segmentation_mask
 ```
-
 </td>
 </tr>
 <tr>
@@ -117,7 +121,6 @@ class LandslideDetector(nn.Module):
   <img src="https://img.shields.io/badge/📊_Plots-20%2B-active?style=flat-square" />
   <a href="https://personal-website-gaz.onrender.com"><img src="https://img.shields.io/badge/🔗_Live_Demo-here-blue?style=flat-square" /></a>
 </p>
-
 </td>
 <td width="50%">
 
@@ -130,11 +133,10 @@ class LandslideDetector(nn.Module):
   <img src="https://img.shields.io/badge/🛣️_Road_Network-4,500%2B_km-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/🚏_Transit_Points-3,000%2B-brightgreen?style=flat-square" />
 </p>
-
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="100%" colspan="2">
 
 ### 🌸 Zan Digital Sanctuary
 *High-availability humanitarian platform securing public support resources*
@@ -146,18 +148,24 @@ class LandslideDetector(nn.Module):
   <img src="https://img.shields.io/badge/📡_API_Calls-5.5M%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/👥_MAU-10K%2B-active?style=flat-square" />
 </p>
-
 </td>
 </tr>
 </table>
 
 ---
 
-## 📂 Repository & Resource Distribution
+## 📂 Repository Distribution (ASCII Visual)
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['🌍 Earth Observation','🏙️ Urban Analytics','🤖 AI/ML','🌐 WebGIS','🛠️ Geospatial Tools','🌱 Humanitarian'],datasets:[{data:[8,6,6,5,4,4],backgroundColor:['#1f6feb','#238636','#58a6ff','#f0883e','#a371f7','#db61a2']}]},options:{title:{display:true,text:'Project Distribution by Category',color:'#c9d1d9',font:{size:16}},legend:{labels:{color:'#c9d1d9'}},backgroundColor:'#0d1117'}}" width="60%" />
-</p>
+<pre>
+📡 Earth Observation     ████████░░ 8 repos (29%)
+🏙️ Urban Analytics       ██████░░░░ 6 repos (21%)
+🤖 AI/ML                 ██████░░░░ 6 repos (21%)
+🌐 WebGIS                █████░░░░░ 5 repos (18%)
+🛠️ Geospatial Tools      ████░░░░░░ 4 repos (14%)
+🌱 Humanitarian          ████░░░░░░ 4 repos (14%)
+</pre>
+
+### Detailed Breakdown
 
 | Category | Repository Count | Core Technical Focus |
 | --- | --- | --- |
@@ -170,35 +178,40 @@ class LandslideDetector(nn.Module):
 
 ---
 
-## 📈 Weekly Activity & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamabbaszafari&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%" />
-</p>
-
----
-
 ## 🚀 Professional Roadmap
 
-```mermaid
-timeline
-    title Geospatial Engineering Roadmap
-    Q1-Q2 2025 : Scaled real-time SAR data integrations
-               : Launched Amsterdam Digital Twin v5.3
-    Q3-Q4 2025 : Research in Geospatial LLMs
-               : Open-source contributions to GeoPandas & OSMnx
-    2026      : Expanding Earth Observation pipelines
-               : Advanced AI for climate resilience
+```
+2024 ─────────────────────────────────────────────────────────────► 2025
+
+Q1-Q2 2024                    Q3-Q4 2024                    Q1-Q2 2025
+    │                              │                              │
+    ▼                              ▼                              ▼
+🛰️ SAR Data                    🧠 Geospatial                  🌍 Advanced
+Integrations                    LLMs Research                EO Pipelines
+    │                              │                              │
+    ▼                              ▼                              ▼
+🏙️ Amsterdam                    📦 Open Source                🤝 Climate
+Digital Twin v5.3               Contributions                Resilience
 ```
 
----
-
-## 🔥 Current Focus & Milestones
+### Current Focus & Milestones
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_2025_Goal-10_Open_Source_Contributions-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📚_Learning-Geospatial_LLMs-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🚀_Launching-SAR_Flood_Monitoring-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 GitHub Activity Metrics
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ghulamabbaszafari&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghulamabbaszafari&theme=github_dark" width="100%" />
 </p>
 
 ---
