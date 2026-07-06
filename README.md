@@ -376,7 +376,7 @@ All projects are open-source under MIT or GPL licenses unless otherwise specifie
 
 ---
 
-*Built with ❤️ for Earth Observation and Geospatial Intelligence*
+*Built for Earth Observation and Geospatial Intelligence*
 
 **"From satellites to sovereignty — mapping our shared future"**
 
