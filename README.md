@@ -144,17 +144,6 @@ flowchart LR
     style G fill:#0a3d4a,color:#fff,stroke:none
 ```
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&bg_color=0a3d4a&color=2e8b57&line=2e8b57&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/zafariabbas68)
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
