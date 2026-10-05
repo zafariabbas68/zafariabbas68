@@ -2,22 +2,30 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a3d4a,40:14607a,70:1e7a5e,100:2e8b57&text=Ghulam%20Abbas%20Zafari&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Geoinformatics%20Engineer%20%C2%B7%20Earth%20Observation%20%C2%B7%20Geospatial%20Full-Stack&descAlignY=58&descSize=16&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
+<!-- ═══════════════ BANNER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a3d4a,35:14607a,65:1e7a5e,100:2e8b57&text=Ghulam%20Abbas%20Zafari&fontColor=ffffff&fontSize=50&fontAlignY=34&desc=Geoinformatics%20Engineer%20%C2%B7%20Earth%20Observation%20%C2%B7%20Geospatial%20Full-Stack&descAlignY=56&descSize=15&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
 
-<a href="https://github.com/zafariabbas68">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3400&pause=1000&color=2E8B57&center=true&vCenter=true&width=760&lines=From+satellite+pixels+to+decisions+that+matter;Remote+Sensing+%C3%97+Machine+Learning+%C3%97+Web+GIS;Landsat+%C2%B7+Sentinel+%C2%B7+MODIS+%E2%86%92+APIs+%E2%86%92+live+maps;MSc+Geoinformatics+Engineering+%E2%80%94+Politecnico+di+Milano" alt="Typing SVG" />
-</a>
+<!-- ═══════════════ BOLD ANIMATED TYPOGRAPHY ═══════════════ -->
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=900&height=45&lines=Turning+Satellite+Pixels+Into+Decisions" alt="headline" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=700&color=14607A&center=true&vCenter=true&width=900&height=35&lines=%E2%9F%A9+Remote+Sensing+%C3%97+Machine+Learning+%C3%97+Web+GIS;%E2%9F%A9+Landsat+%C2%B7+Sentinel+%C2%B7+MODIS+%E2%86%92+APIs+%E2%86%92+Live+Maps;%E2%9F%A9+MSc+Geoinformatics+Engineering+%E2%80%94+Politecnico+di+Milano" alt="subheadline" />
 
 <br/>
 
+<!-- ═══════════════ BADGE ROW ═══════════════ -->
 ![Milan](https://img.shields.io/badge/Milan-Italy-0a3d4a?style=flat-square&logo=googlemaps&logoColor=white)
-![Languages](https://img.shields.io/badge/EN%20%C2%B7%20IT%20%C2%B7%20FA-languages-14607a?style=flat-square)
+![Languages](https://img.shields.io/badge/EN%20%C2%B7%20IT%20%C2%B7%20FA-14607a?style=flat-square)
 ![Open to work](https://img.shields.io/badge/Open%20to-EO%20%26%20GIS%20roles-2e8b57?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=zafariabbas68&style=flat-square&color=2e8b57&label=Profile+views)
 
 <br/>
 
-[**Portfolio**](https://personal-website-gaz.onrender.com) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/ghulam-abbas-zafari-b94105248) &nbsp;·&nbsp; [**Email**](mailto:ghalambabas.zafari@gmail.com)
+<!-- ═══════════════ QUICK LINKS ═══════════════ -->
+[**Portfolio**](https://personal-website-gaz.onrender.com) &nbsp;·&nbsp;
+[**LinkedIn**](https://linkedin.com/in/ghulam-abbas-zafari-b94105248) &nbsp;·&nbsp;
+[**Email**](mailto:ghalambabas.zafari@gmail.com)
 
 </div>
 
@@ -138,6 +146,31 @@ flowchart LR
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zafariabbas68&bg_color=0a3d4a&color=2e8b57&line=2e8b57&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/zafariabbas68)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&bg_color=0a3d4a&title_color=2e8b57&icon_color=2e8b57&text_color=ffffff&border_color=14607a&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&bg_color=0a3d4a&title_color=2e8b57&text_color=ffffff&border_color=14607a&hide_border=false&langs_count=8" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zafariabbas68&background=0a3d4a&border=14607a&stroke=2e8b57&ring=2e8b57&fire=2e8b57&currStreakLabel=2e8b57&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+</div>
+
+---
+
 ## 🔬 Research & Analysis
 
 | | Study | Highlight |
@@ -229,5 +262,4 @@ timeline
 
 </div>
 ```
-
 
