@@ -1,11 +1,9 @@
-
-
 <div align="center">
 
 <!-- ═══════════════ BANNER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a3d4a,35:14607a,65:1e7a5e,100:2e8b57&text=Ghulam%20Abbas%20Zafari&fontColor=ffffff&fontSize=50&fontAlignY=34&desc=Geoinformatics%20Engineer%20%C2%B7%20Earth%20Observation%20%C2%B7%20Geospatial%20Full-Stack&descAlignY=56&descSize=15&animation=fadeIn&fontAlign=50" width="100%" alt="header" />
 
-<!-- ═══════════════ BOLD ANIMATED TYPOGRAPHY ═══════════════ -->
+<!-- ═══════════════ ANIMATED TYPOGRAPHY ═══════════════ -->
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=2800&pause=800&color=2E8B57&center=true&vCenter=true&width=900&height=45&lines=Turning+Satellite+Pixels+Into+Decisions" alt="headline" />
@@ -144,6 +142,7 @@ flowchart LR
     style G fill:#0a3d4a,color:#fff,stroke:none
 ```
 
+---
 
 ## 📈 GitHub Stats
 
@@ -151,10 +150,6 @@ flowchart LR
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zafariabbas68&show_icons=true&bg_color=0a3d4a&title_color=2e8b57&icon_color=2e8b57&text_color=ffffff&border_color=14607a&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafariabbas68&layout=compact&bg_color=0a3d4a&title_color=2e8b57&text_color=ffffff&border_color=14607a&hide_border=false&langs_count=8" alt="top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zafariabbas68&background=0a3d4a&border=14607a&stroke=2e8b57&ring=2e8b57&fire=2e8b57&currStreakLabel=2e8b57&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
 </div>
 
@@ -250,5 +245,3 @@ timeline
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2e8b57,50:14607a,100:0a3d4a&section=footer" width="100%" alt="footer" />
 
 </div>
-```
-
